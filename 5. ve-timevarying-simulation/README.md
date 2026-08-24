@@ -12,7 +12,7 @@ This project implements the thesis simulation study in stages. Stage 1 contains 
 ## Run validation
 
 ```r
-setwd("C:/Users/bitac/Desktop/ve-timevarying-simulation")
+setwd("C:/Users/Bindu/Desktop/ve-timevarying-simulation")
 source("validate_stage1.R")
 ```
 
