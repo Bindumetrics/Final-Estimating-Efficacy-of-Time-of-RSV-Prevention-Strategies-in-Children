@@ -6,7 +6,7 @@
 sm <- file.path("outputs", "summary")
 day_cols <- c("d30", "d60", "d90", "d120", "d150", "d180")
 
-bias <- read.csv(file.path(sm, "bias.csv"))      # signed_bias by day
+bias <- read.csv(file.path(sm, "bias.csv"))      # signed_bias by day.
 rmse <- read.csv(file.path(sm, "rmse.csv"))
 cov  <- read.csv(file.path(sm, "coverage.csv"))
 wid  <- read.csv(file.path(sm, "width.csv"))
