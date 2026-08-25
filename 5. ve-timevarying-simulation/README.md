@@ -147,6 +147,6 @@ At very small samples (n = 500, ~15 events) M1's log-time interaction is barely 
 `R/summarise.R` turns a sweep result into presentation tables (CSV always; headline tables also as gt HTML): signed bias / RMSE / coverage / mean width by reporting day, ISE, pairwise relative efficiency (within a truth scale), convergence rate, and the M4 LOOIC form-selection table. `R/plots.R` draws per-scenario small-multiples of true VE(t) vs the mean estimated curve with mean bands, each method against the truth on its own scale, with M1b flagged supplementary.
 
 ```bash
-Rscript validate_summary.R     # tables + figures from the smoke sweep
-Rscript tests/test_summarise.R # deterministic table-shape/value checks
+Rscript validate_summary.R     # tables + figures from the smoke sweep.
+Rscript tests/test_summarise.R # deterministic table-shape/value checks.
 ```
