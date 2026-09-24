@@ -1,0 +1,744 @@
+Since January 2020 Elsevier has created a COVID-19 resource centre with
+free information in English and Mandarin on the novel coronavirus COVID-
+
+   19. The COVID-19 resource centre is hosted on Elsevier Connect, the
+                 company's public news and information website.
+
+     Elsevier hereby grants permission to make all its COVID-19-related
+research that is available on the COVID-19 resource centre - including this
+
+   research content - immediately available in PubMed Central and other
+publicly funded repositories, such as the WHO COVID database with rights
+for unrestricted research re-use and analyses in any form or by any means
+
+    with acknowledgement of the original source. These permissions are
+ granted for free by Elsevier for as long as the COVID-19 resource centre
+
+                                       remains active.
+     Articles
+
+                                     Efficacy of nirsevimab against respiratory syncytial virus
+                                     lower respiratory tract infections in preterm and term
+                                     infants, and pharmacokinetic extrapolation to infants with
+                                     congenital heart disease and chronic lung disease: a pooled
+                                     analysis of randomised controlled trials
+
+                                     Eric A F Simões, Shabir A Madhi, William J Muller, Victoria Atanasova, Miroslava Bosheva, Fernando Cabañas, Manuel Baca Cots,
+                                     Joseph B Domachowske, Maria L Garcia-Garcia, Ineta Grantina, Kim A Nguyen, Heather J Zar, Anna Berglind, Celeste Cummings, M Pamela Griffin,
+                                     Therese Takas, Yuan Yuan, Ulrika Wählby Hamrén, Amanda Leach, Tonya Villafana
+
+      Lancet Child Adolesc Health    Summary
+                  2023; 7: 180-89
+                                     Background In a phase 2b trial and the phase 3 MELODY trial, nirsevimab, an extended half-life, monoclonal antibody
+                 Published Online    against respiratory syncytial virus (RSV), protected healthy infants born preterm or at full term against medically
+                   January 9, 2023   attended RSV lower respiratory tract infection (LRTI). In the MEDLEY phase 2-3 trial in infants at higher risk for
+                                     severe RSV infection, nirsevimab showed a similar safety profile to that of palivizumab. The aim of the current
+         https://doi.org/10.1016/    analysis was to assess the efficacy of nirsevimab using a weight-banded dosing regimen in infants born between
+        S2352-4642(22)00321-2        29 weeks gestational age and full term.
+
+         See Comment page 147        Methods Infants enrolled in the phase 2b and MELODY trials were randomised (2:1) to receive a single intramuscular
+                                     injection of nirsevimab (infants weighing <5 kg received 50 mg; those weighing 5 kg received 100 mg) or placebo
+   Children's Hospital Colorado,     before the RSV season. Infants in MEDLEY were randomised (2:1) to receive one dose of nirsevimab (infants weighing
+                  Aurora, CO, USA    <5 kg received 50 mg; those weighing 5 kg received 100 mg) followed by four monthly placebo doses, or five once-a-
+                                     month intramuscular doses of palivizumab. We report a prespecified pooled efficacy analysis assessing the weight-
+           (Prof E A F Simões MD);   banded dosing regimen proposed on the basis of the phase 2b and MELODY trials, in addition to extrapolated efficacy
+South African Medical Research       in infants with chronic lung disease, congenital heart disease, or extreme preterm birth (<29 weeks' gestational age)
+Council Vaccines and Infectious      based on pharmacokinetic data from the phase 2-3 MEDLEY safety trial. For the pooled efficacy analysis, the primary
+                                     endpoint was incidence of medically attended RSV LRTI through 150 days post-dose. The secondary efficacy endpoint
+     Diseases Analytics Research     was number of admissions to hospital for medically attended RSV LRTI. The incidence of very severe RSV LRTI was
+Unit, Faculty of Health Sciences,    an exploratory endpoint, defined as cases of hospital admission for medically attended RSV LRTI that required
+                                     supplemental oxygen or intravenous fluids. We also did a prespecified exploratory analysis of medically attended LRTI
+                 University of the   of any cause (in the investigator's judgement) and hospital admission for respiratory illness of any cause (defined as
+ Witwatersrand, Johannesburg,        any upper respiratory tract infection or LRTI leading to hospital admission). Post hoc exploratory analyses of outpatient
+                                     visits and antibiotic use were also done. Nirsevimab serum concentrations in MEDLEY were assessed using population
+                       South Africa  pharmacokinetic methods and the pooled data from the phase 2b and MELODY trials. An exposure target was defined
+             (Prof S A Madhi PhD);   on the basis of an exposure-response analysis. To successfully demonstrate extrapolation, more than 80% of infants in
+Ann & Robert H Lurie Children's      MEDLEY had to achieve serum nirsevimab exposures at or above the predicted efficacious target.
+         Hospital of Chicago and
+        Northwestern University      Findings Overall, 2350 infants (1564 in the nirsevimab group and 786 in the placebo group) in the phase 2b and
+   Feinberg School of Medicine,      MELODY trials were included in the pooled analysis. Nirsevimab showed efficacy versus placebo with respect to the
+                                     primary endpoint of medically attended RSV LRTI (19 [1%] nirsevimab recipients vs 51 [6%] placebo recipients;
+                  Chicago, IL, USA   relative risk reduction [RRR] 79·5% [95% CI 65·9-87·7]). Consistent efficacy was shown for additional endpoints of
+             (Prof W J Muller PhD);  RSV LRTI hospital admission (nine [1%] nirsevimab recipients vs 21 [3%] placebo recipients; 77·3% [50·3-89·7]) and
+   Dr Georgi Stranski University     very severe RSV (five [<1%] vs 18 [2%]; 86·0% [62·5-94·8]). Nirsevimab recipients had fewer hospital admissions for
+       Hospital, Pleven, Bulgaria    any-cause respiratory illness (RRR 43·8% [18·8-61·1]), any-cause medically attended LRTI (35·4% [21·5-46·9]),
+   (V Atanasova PhD); University     LRTI outpatient visits (41·9% [25·7-54·6]), and antibiotic prescriptions (23·6% [3·8-39·3]). Among infants with
+Multiprofile Hospital for Active     chronic lung disease, congenital heart disease, or extreme preterm birth in MEDLEY, nirsevimab serum exposures
+   Treatment Sv Georgi Medical       were similar to those found in the pooled data; exposures were above the target in more than 80% of the overall
+    University, Plovdiv, Bulgaria    MEDLEY trial population (94%), including infants with chronic lung disease (94%) or congenital heart disease (80%)
+            (Prof M Bosheva MD);     and those born extremely preterm (94%).
+ Quironsalud Madrid University
+         Hospital, Madrid, Spain     Interpretation A single dose of nirsevimab protected healthy infants born at term or preterm from medically attended
+   (F Cabañas PhD); Quirónsalud      RSV LRTI, associated hospital admission, and severe RSV. Pharmacokinetic data support efficacy extrapolation to
+Málaga Hospital, Malaga, Spain       infants with chronic lung disease, congenital heart disease, or extreme prematurity. Together, these data suggest that
+          (M Baca Cots MD); State
+University of New York Upstate
+   Medical University, Syracuse,
+NY, USA (J B Domachowske MD);
+      University Hospital Severo
+            Ochoa, Madrid, Spain
+  (M L Garcia-Garcia PhD); Brnu
+Klnisk Universittes Slimnca,
+     Riga, Latvia (I Grantina MD);
+          Hospices Civils de Lyon,
+  Neonatal Intensive Care Units
+      and CIC 1407, Lyon, France
+  (K A Nguyen MD); Department
+of Paediatrics and Child Health,
+   Red Cross Children's Hospital,
+        Cape Town, South Africa
+
+180                                  www.thelancet.com/child-adolescent Vol 7 March 2023
+                                                                                                                                       Articles
+
+nirsevimab has the potential to change the landscape of infant RSV disease by reducing a major cause of infant                         (Prof H J Zar PhD); SA-MRC Unit
+morbidity and the consequent burden on caregivers, clinicians, and health-care providers.                                              on Child and Adolescent Health,
+                                                                                                                                       University of Cape Town,
+Funding AstraZeneca and Sanofi.                                                                                                        Cape Town, South Africa
+                                                                                                                                       (Prof H J Zar); Biometrics,
+Copyright © 2023 Published byElsevier Ltd. All rights reserved.                                                                        Vaccines & Immune Therapies,
+                                                                                                                                       BioPharmaceuticals R&D,
+Introduction                                                         compounding the substantial burden on health-care                 AstraZeneca, Gothenburg,
+                                                                     providers and families alike.8                                    Sweden (A Berglind PhD);
+Respiratory syncytial virus (RSV) remains the most                                                                                     Clinical Pharmacology and
+common cause of lower respiratory tract infection                      Nirsevimab is an anti-RSV monoclonal antibody with              Quantitative Pharmacology,
+(LRTI) in infants globally. It is also persistently the              an extended half-life in vivo (>3-times longer than a             R&D, AstraZeneca, Gothenburg,
+most frequent cause of hospitalisation in the first year             typical monoclonal antibody) that targets the highly              Sweden (U Wählby Hamrén PhD);
+of life.1-3 Notably, most hospitalisations due to RSV                conserved epitope site Ø on the prefusion form of the             Clinical Development, Vaccines
+LRTI occur in otherwise healthy, term infants with                   RSV fusion (F) protein.9 The efficacy of nirsevimab has           & Immune Therapies,
+no underlying serious comorbidity, for whom there                    been assessed in two global, double-blind, randomised,            Biopharmaceuticals R&D,
+are currently no preventive measures available.4-6 In                placebo-controlled trials with similar designs: the               AstraZeneca, Durham, NC, USA
+addition, RSV can lead to a substantial number of                    phase 2b trial (NCT02878330)10 and the phase 3                    (C Cummings MPH); Clinical
+outpatient visits, particularly in the first year of life,7          MELODY trial (NCT03979313).11 Both trials met their               Development, Vaccines &
+                                                                                                                                       Immune Therapies,
+Research in context                                                  the development of the weight-banded dosing regimen of            Biopharmaceuticals R&D,
+                                                                     50 mg for infants <5 kg and 100 mg for infants 5 kg, which        AstraZeneca, Gaithersburg, MD,
+Evidence before this study                                           was subsequently used for the phase 3 MELODY study. In the        USA (M P Griffin MD, T Takas BSc,
+Respiratory syncytial virus (RSV) lower respiratory tract infection  current Article, we pool data from the phase 2b and MELODY        A Leach MRCPCH,
+(LRTI) is the most frequent cause of hospitalisation during the      trials to obtain a single point estimate of efficacy for healthy  T Villafana PhD); Biometrics,
+first year of life worldwide. Although infants born preterm and      infants born between 29 weeks gestational age and full term,      Vaccines & Immune Therapies,
+those with underlying lung or heart disease are among those at       based on this weight-banded dosing that has been approved         BioPharmaceuticals R&D,
+highest risk for severe illness, most hospitalisations for RSV LRTI  for clinical use in the EU and UK. Pooling these data provides    AstraZeneca, Gaithersburg, MD,
+occur in healthy infants born at term. The only existing             the most relevant, robust information for the largest and         USA (Y Yuan PhD)
+prophylactic intervention against RSV, palivizumab, is only          broadest population of healthy infants to date. Consistent
+licensed for use in infants born preterm, those who have chronic     efficacy was shown across disease severities: 79·5% against       Correspondence to:
+lung disease, or those who have congenital heart disease,            medically attended RSV LRTI, 77·3% against medically attended     Dr Tonya Villafana, Clinical
+and requires monthly injections throughout the RSV season to         RSV LRTI requiring hospital admission, and 86·0% against very     Development,
+provide sustained protection. We searched ClinicalTrials.gov using   severe RSV disease. Beyond the direct benefit in disease          Biopharmaceuticals R&D,
+the term "respiratory syncytial virus" filtered by "with results",   prevention, there was an associated benefit through the           AstraZeneca, Gaithersburg,
+"interventional", and "child (birth-17)" to assess the current RSV   reduction in health-resource use and prescribed antibiotics for   MD 20878, USA
+prophylactic landscape. Although some new candidates are in          any indication. In addition, based on similar pharmacokinetic     tonya.villafana@astrazeneca.
+development for protection against RSV in infants (including         data, a similar level of efficacy to that found in the pooled     com
+paediatric vaccines, maternal vaccines, and monoclonal               analysis is extrapolated to infants with chronic lung disease or
+antibodies), nirsevimab is currently the most advanced.              congenital heart disease and those with born extremely
+                                                                     preterm at less than 29 weeks gestational age.
+Nirsevimab is an anti-RSV monoclonal antibody with an
+extended half-life in vivo that targets the highly conserved         Implications of all the available evidence
+epitope site Ø on the pre-fusion form of the F protein. A single     This pooled efficacy analysis demonstrates that a single dose of
+intramuscular injection of nirsevimab has been shown to              nirsevimab protects against medically attended RSV LRTI,
+protect against medically attended RSV LRTI in infants in            associated hospital admission, and very severe RSV disease,
+two pivotal randomised placebo-controlled clinical trials:           in healthy infants born at full term or preterm (29 weeks
+the phase 2b trial (including infants born at gestational age        gestational age), while also reducing outpatient visits and
+29 to <35 weeks) and the phase 3 MELODY trial (gestational           antibiotic use. In addition, pharmacokinetic data support
+age 35 weeks). In addition, the safety of nirsevimab in infants      extrapolation of efficacy to infants with congenital heart
+who were eligible to receive palivizumab prophylaxis under           disease, chronic lung disease, and extreme preterm birth.
+local guidelines has been shown in the phase 2-3 MEDLEY trial.       Together, these data suggest that nirsevimab has the potential
+                                                                     to change the landscape of infant RSV disease by reducing a
+Added value of this study                                            major cause of infant morbidity and the consequent burden on
+Following the phase 2b study of nirsevimab, in which all infants     caregivers, clinicians, and health-care providers.
+received a fixed dose of 50 mg, pharmacokinetic and drug
+exposure-response analyses indicated that this dose was
+suboptimal in infants weighing 5 kg or more. This finding led to
+
+www.thelancet.com/child-adolescent Vol 7 March 2023                                                                                              181
+     Articles
+
+               primary endpoint, showing statistically significant             All trials were done in accordance with the principles
+               protection against medically attended RSV LRTI over a         of the Declaration of Helsinki and the International
+               5-month period with nirsevimab use. The phase 2b trial        Council for Harmonisation Good Clinical Practice
+               assessed a single, intramuscular, 50-mg dose of               guidelines. Each site had approval from an institutional
+               nirsevimab administered to healthy preterm infants            ethics review board or ethics committee, and appropriate
+               (gestational age 29 to <35 weeks) before the RSV              written informed consent was obtained for each infant.
+               season, and reported a relative risk reduction (RRR)          Data from the trials were collected by clinical investigators
+               of 70·1% (95% CI 52·3-81·2).10 On the basis of                and analysed by ClinChoice (a contract research organ­
+               pharmacokinetic and drug exposure-response analyses,          isation). Neither the investigators nor the parents or
+               dosing was subsequently optimised to a weight-banded          guardians were aware of the trial group assignments.
+               dosing regimen consisting of a single intramuscular
+               dose of 50 mg in infants weighing less than 5 kg and          Participants
+               100 mg in infants weighing 5 kg or more. In the               The two efficacy trials enrolled distinct populations by
+               MELODY trial, the RRR using this weight-banded                gestational age: the phase 2b trial enrolled otherwise
+               dosing regimen for healthy infants born at term or late       healthy infants born preterm (gestational age 29 to
+               preterm (gestational age 35 weeks) was 74·5%                  <35 weeks)10 and MELODY enrolled healthy infants born
+               (49·6-87·1).11 Additionally, the phase 2-3 MEDLEY trial       at term or late preterm (gestational age 35 weeks).11
+               (NCT03959488) used a palivizumab-controlled study             Potential participants were excluded from the individual
+               design to assess the safety and pharmacokinetics of           studies if they met national or local criteria to receive
+               nirsevimab administration in infants at increased risk        palivizumab, had any fever or acute illness within 7 days
+               for severe RSV infection, and showed a similar safety         before randomisation, or had RSV infection before or at
+               profile to that of palivizumab.12                             the time of randomisation. For the pooled analysis,
+                                                                             infants from the phase 2b trial who weighed 5 kg or
+                 The aim of this analysis was to assess the efficacy of      more at enrolment were excluded because they did not
+               nirsevimab using a weight-banded dosing regimen in            receive 100 mg nirsevimab as required to accord with the
+               healthy infants born at term or preterm from 29 weeks         weight-banded regimen.
+               gestational age who were included in the phase 2 and 3
+               trials.10,11 In addition, we aimed to describe the extra­       The MEDLEY trial assessed the safety and pharmaco­
+               polation of efficacy on the basis of pharmacokinetic data     kinetics of nirsevimab in infants who were eligible
+               to infants with chronic lung disease of prematurity,          to receive prophylaxis with palivizumab under local
+               congenital heart disease, or those born extremely preterm     guidelines; had chronic lung disease of prematurity
+               (<29 weeks gestational age), who were not represented in      warranting therapeutic intervention within the previous
+               the efficacy trials.                                          6 months, or had uncorrected, partially corrected, or
+                                                                             medically treated congenital heart disease; or were born
+               Methods                                                       preterm (35 weeks gestational age).12
+
+               Study design                                                  Procedures
+               The current study is a pooled efficacy analysis of            Nirsevimab was administered as a single dose of 50 mg
+               nirsevimab based on data from the phase 2b trial and          in all infants in the phase 2b trial; a single dose of either
+               phase 3 MELODY trial, and was prespecified before the         50 mg (in infants weighing <5 kg) or 100 mg (in those
+               trials were conducted. Additionally, we extrapolated the      weighing 5 kg) in the MELODY trial; and either a 50-mg
+               efficacy of nirsevimab in infants at increased risk of        dose (in infants weighing <5 kg) or 100-mg dose (in those
+               severe RSV infection (those with chronic lung disease of      weighing 5 kg), followed by four monthly placebo doses,
+               prematurity, congenital heart disease, or who were born       in the MEDLEY trial. Comparators consisted of placebo
+               at <29 weeks gestational age, who were not represented        in the phase 2b and MELODY trials and palivizumab
+               in the efficacy trials) on the basis of pharmacokinetic data  (five once-per-month doses of 15 mg/kg bodyweight) in
+               from the MEDLEY phase 2-3 trial. All three studies were       the MEDLEY trial.
+               double-blind, randomised, controlled trials, and study
+               designs have been reported previously.10-12 The phase 2b        All infants were followed up through their first
+               trial was conducted at 164 sites across 23 countries in       RSV season to 150 days post-dose to detect the occurrence
+               Europe, North America, South America, and Australasia.        of RSV LRTI in any type of medical visit (referred to
+               The MELODY primary cohort was investigated at 160 sites       as medically attended RSV LRTI), including both
+               across 21 countries in Europe, North America, and Asia,       inpatient and outpatient settings, with use of standard­
+               along with South Africa. MEDLEY was conducted at              ised method­ology. The case definition (common for
+               126 sites across 25 countries in Europe, North America        all three studies)10-12 required detection of RSV on
+               and Asia, along with South Africa. In all three studies,      a central test (RT-PCR assay; Lyra RSV plus hMPV,
+               infants were allocated (2:1) to receive either intramuscular  Quidel, San Diego, California, USA), the presence of
+               nirsevimab or comparator (placebo or palivizumab)             signs of lower respiratory tract involvement on chest
+               before their first RSV season.                                auscultation, and the presence of at least one clinical
+
+182                                                                          www.thelancet.com/child-adolescent Vol 7 March 2023
+                                                                                                                                                 Articles
+
+sign indicating severe respiratory disease (appendix p 4).    response analyses on the pooled dataset were done in the
+All RT-PCR-confirmed RSV isolates obtained from               as-treated population (all participants who underwent
+participants who developed medically attended LRTI or         randomisation and received any amount of treatment).
+were admitted to hospital because of any respiratory          The nirsevimab pharmacokinetic target to be used as a
+illness were subtyped and assessed by genotypic and           surrogate for efficacy, based on an exposure-response
+phenotypic resistance methodologies (appendix p 3).           analysis of pooled phase 2b and MELODY data and
+                                                              expressed as area under the concentration-time curve
+  Blood samples were collected for pharmacokinetic
+analysis at selected timepoints for at least 150 days                                   Placebo group        Nirsevimab group
+post-dose (appendix p 2). All three trials followed up                                  (n=786)              (n=1564)
+infants for safety assessment for 360 days after post-dose;
+these results are described elsewhere.10-12                   Age, months                  2·00 (0·99-3·71)      2·02 (1·00-3·58)
+                                                                Median (IQR)            531/786 (68%)        1066/1564 (68%)
+Outcomes                                                        3·0                     204/786 (26%)         398/1564 (25%)
+The primary efficacy endpoint for the current analysis          >3·0 to 6·0              51/786 (6%)
+was medically attended RSV LRTI, according to the               >6·0                                          100/1564 (6%)
+aforementioned case definition. The secondary efficacy
+endpoint was number of hospital admissions for                Sex                       389/786 (49%)        828/1564 (53%)
+medically attended RSV LRTI. Very severe RSV LRTI,              Male                    397/786 (51%)        736/1564 (47%)
+medically attended LRTI of any cause, and admissions to         Female
+hospital were prespecified exploratory endpoints. Very                                   26/786 (3%)          57/1560 (4%)
+severe RSV LRTI was defined as hospital admission for         Ancestry*
+medically attended RSV LRTI that required supplemental          American Indian or       24/786 (3%)          39/1560 (3%)
+oxygen or intravenous fluids. A case of medically               Alaska Native           176/786 (22%)        406/1560 (26%)
+attended LRTI of any cause included all cases of LRTI in        Asian
+the investigator's judgement. Hospital admission for            Black or African           8/786 (1%)         12/1560 (1%)
+respiratory illness of any cause was defined as any upper       American
+respiratory tract infection or LRTI leading to hospital         Native Hawaiian or      478/786 (61%)        919/1560 (59%)
+admission. A prespecified subgroup analysis assessed            other Pacific Islander   70/786 (9%)         109/1560 (7%)
+data by hemisphere, age at randomisation, sex, ancestry         White                      4/786 (1%)
+or ethnic group, weight at baseline, country, and               Other                                         18/1560 (1%)
+geographical region. Post hoc exploratory endpoints of          Multiple categories
+health resource use, outpatient visits, and antibiotic use                              536/786 (68%)        1086/1564 (69%)
+were also assessed.                                           Hemisphere                250/786 (32%)         478/1564 (31%)
+                                                                Northern
+Pharmacokinetic extrapolation                                   Southern                   4·35 (3·00-6·00)     4·40 (3·20-6·00)
+Extrapolation of efficacy on the basis of pharmacokinetics                              482/786 (61%)        973/1562 (62%)
+was planned with the assumption of a similar exposure-        Weight on day 1, kg       304/786 (39%)        589/1562 (38%)
+response relationship across paediatric populations             Median (IQR)
+owing to the mechanism of action of nirsevimab.13 The           <5                      116/786 (15%)        219/1563 (14%)
+pharmacokinetics of nirsevimab were assessed with use           5                       175/786 (22%)        344/1563 (22%)
+of a population pharmacokinetic analysis of pooled                                       76/786 (10%)        139/1563 (9%)
+data;10-12,14,15 a nirsevimab exposure target was defined on  Gestational age, weeks    419/786 (53%)        861/1563 (55%)
+the basis of an exposure-response analysis of pooled data       29 to 32                164/786 (21%)        309/1563 (20%)
+from the phase 2b trial and MELODY. To successfully             >32 to <35
+demonstrate extrapolation, the proposed weight-banded           35 to <37               496/786 (63%)        994/1564 (64%)
+dosing regimen in the MEDLEY population should result           37                      290/786 (37%)        570/1564 (36%)
+in serum nirsevimab exposures at or above the predicted
+efficacious target in more than 80% of infants. Individual    Multiple birth
+nirsevimab exposure metrics in infants in MEDLEY were         Infants per trial
+derived from the final population pharmacokinetic model
+and compared with the nirsevimab exposure target.               MELODY
+                                                                Phase 2b
+  Groups of interest in this analysis included those not
+assessed for efficacy in the phase 2b or MELODY trials        Data are median (IQR) or n/N (%), based on infants with available data. Data
+but who were included in the MEDLEY study: infants            include infants who were dosed according to the proposed weight-banded dosing
+with chronic lung disease, infants with haemodynamically      regimen only (ie, infants weighing <5 kg dosed with 50 mg, and those weighing
+significant congenital heart disease, and infants born        5 kg dosed with 100 mg). *Ancestry was reported by parents or guardians,
+extremely preterm (<29 weeks gestational age). Exposure-      and each category (except "multiple categories") comprises infants for whom
+                                                              only that category was selected; "other" comprises infants whose parents or
+                                                              guardians indicated a category other than those listed, and "multiple categories"
+                                                              comprises those for whom more than one category was selected. Includes only
+                                                              infants who weighed <5 kg at enrolment (ie, those who were treated in
+                                                              accordance with the proposed weight-banded regimen).
+
+                                                              Table 1: Demographics and baseline characteristics (intention-to-treat
+                                                              population)
+
+www.thelancet.com/child-adolescent Vol 7 March 2023                                                                                                        183
+     Articles
+
+                                Placebo group  Nirsevimab      Relative risk       p value                                 the point estimate of log-transformed relative risk and the
+                                (n=786)        group (n=1564)  reduction (95% CI)                                          variance. The secondary endpoint, RSV LRTI requiring
+                                                                                                                           hospital admission, and the exploratory endpoints of very
+Medically attended RSV LRTI*     51 (6%)        19 (1%)        79·5% (65·9-87·7)   <0·0001                                 severe RSV LRTI and hospital admission due to any cause
+                                 21 (3%)         9 (1%)        77·3% (50·3-89·7)    0·0002                                 were analysed similarly to the primary efficacy analysis,
+Hospital admission for                                                                                                     but with the stratification factor excluded from the model
+medically attended RSV LRTI      18 (2%)         5 (<1%)       86·0% (62·5-94·8)   <0·0001                                 to avoid convergence issues. These analyses were not
+                                149 (19%)      191 (12%)       35·4% (21·5-46·9)   <0·0001                                 adjusted for multiplicity, with the exception of the analysis
+Very severe RSV LRTI                                                                                                       of the RSV LRTI requiring admission to hospital, which
+                                 51 (6%)        57 (4%)        43·8% (18·8-61·1) 0·0022                                    was included in the multiplicity-protected hierarchical
+Medically attended LRTI of any                                                                                             testing strategy prespecified for the MELODY trial.
+cause§
+                                                                                                                             For the prespecified subgroup analysis (hemisphere,
+Hospital admission for                                                                                                     age at randomisation, sex, ancestry or ethnic group,
+respiratory illness of any                                                                                                 weight at baseline, country, and geographical region), the
+cause§                                                                                                                     RRRs and corresponding 95% CIs (mid-p adjusted) were
+                                                                                                                           estimated on basis of the exact conditional method using
+Relative risk reduction (95% CI) and p values were estimated on the basis of Poisson regression with robust variance       PROC GENMOD with no strata.
+across all case definitions. LRTI=lower respiratory tract infection. RSV=respiratory syncytial virus. *The model included
+study code, treatment group, and stratification factors (age at randomisation and hemisphere) as covariates obtained         As a supportive analysis, Kaplan-Meier curves were
+from PROC MIANALYZE after missing data imputation. The model included study and treatment group as covariates              generated for time to first medically attended RSV LRTI
+for pooled studies obtained from PROC MIANALYZE after missing data imputation. The model included treatment as             until 150 days post-dose (the origin and start times for the
+a factor. §Included are all medically attended LRTIs according to the investigator's judgement, regardless of whether      survival analysis were the same, namely the date of
+they met the clinical criteria for the definition of medically attended LRTI (appendix p 4).                               dosing). For participants who had the event within
+                                                                                                                           150 days post-dose, the time to event was calculated as
+Table 2: Efficacy of nirsevimab weight-band dose on different case definitions of medically attended LRTI                  follows: date of onset of event-date of dosing+1. Date of
+to 150 days post-dose (intention-to-treat population)                                                                      onset was defined as the date the infant was first seen by
+                                                                                                                           the health-care provider for the corresponding event. For
+     See Online for appendix    (AUC), was 12·8 days×mg/mL. Further details of                                             participants who did not have an event within 150 days
+                                the population pharmacokinetic and exposure-response                                       post-dose, the time to event was censored at the earliest
+                                analyses can be found in the appendix (p 2).                                               of 151 days, study discontinuation, or last study assess­
+                                                                                                                           ment. The hazard ratio and corresponding 95% CI were
+                                Statistical analysis                                                                       obtained from a stratified Cox proportional hazards
+                                The primary cohort of MELODY, for which the primary                                        model with the stratification factors (age at randomisation
+                                efficacy endpoint was previously reported,11 was pooled                                    and hemisphere) as the strata. A visual assessment of the
+                                according to the assigned treatment regimen with infants                                   corresponding log (-log) plot was conducted to assess
+                                from the phase 2b trial who weighed less than 5 kg at                                      the proportionality of hazards.
+                                enrolment.
+                                                                                                                             The effect of nirsevimab on health resource use,
+                                  Efficacy analyses on the pooled dataset were done in the                                 including admissions to hospitals and outpatient
+                                intention-to-treat population (all participants who were                                   visits for LRTI, was explored with descriptive statistics,
+                                randomly allocated). Analysis of the risk of medically                                     including exploration of both the magnitude and
+                                attended RSV LRTI and LRTI of any cause were done                                          duration of health resource use, and the need for
+                                with the use of a Poisson regression model with robust                                     respiratory support or supplemental oxygen. Throughout
+                                variance,16 including treatment, study, and stratification                                 the studies, prescriptions of antibiotics were recorded for
+                                factors (age group at randomisation [3·0, >3·0 to 6·0,                                     all indications. The rate of outpatient visits for LRTIs and
+                                and >6·0 months] and location [northern or southern                                        the number of antibiotic prescriptions over one RSV
+                                hemis­phere]) as covariates in the model. Efficacy,                                        season were estimated from a Poisson model with robust
+                                presented as RRR (95% CI), was calculated as 1 minus the                                   variance with follow-up time as an offset and adjustment
+                                relative risk estimated from the Poisson model and                                         for over-dispersion.
+                                expressed as a percentage reduction versus placebo. Only
+                                the first occurrence of medically attended RSV LRTI in                                     Role of the funding source
+                                an individual was used in the primary analysis. The                                        AstraZeneca (MedImmune) was involved in the trial
+                                SAS PROC GENMOD procedure with the REPEATED                                                design, data collection, data analysis, data interpretation,
+                                statement was used to estimate a robust error variance                                     and writing of the report.
+                                and avoid overestimation of the error for the estimated
+                                relative risk.16 Multiple imputation was used to impute                                    Results
+                                the event outcome for infants who were not followed up
+                                for at least 150 days post-dose and who did not have an                                    The pooled analysis of infants receiving the weight-
+                                RSV-associated LRTI, assuming the observed rate of                                         banded dose comprised 2350 infants: 860 infants born
+                                events in the placebo group and with age at randomisation                                  preterm (29 to <35 weeks gestational age) who weighed
+                                (a stratification factor) included as a predictor. Imputation
+                                was done using the monotone logistic regression method
+                                and was repeated 20 times. Inferences from the
+                                20 completed datasets were combined, resulting in
+
+184                                                                                                                        www.thelancet.com/child-adolescent Vol 7 March 2023
+                                                                                                                                              Articles
+
+less than 5 kg in the phase 2b trial, and 1490 infants born                                           A
+at term or late preterm (35 weeks' gestational age) in
+the primary cohort of the MELODY trial. Overall,                                                    1·00
+786 infants were allocated to receive placebo and 1564 to
+receive nirsevimab, median age at randomisation was          Proportion of infants without          0·98
+2·00 months (IQR 1·00-3·65; range 0·03-11·10),                  medically attended RSV LRTI
+1133 (48%) infants were female, and 1217 (52%) were                                                 0·96
+male. Demographics and baseline characteristics were
+similar between nirsevimab and placebo recipients                                                   0·94
+(table 1). 1397 (60%) infants were White, 582 (25%) were
+Black or African American, 83 (4%) were American                                                    0·92                                                              Placebo
+Indian or Alaska Native, 63 (3%) were Asian, and                                                                                                                      Nirsevimab
+20 (1%) were Native Hawaiian or other Pacific Islander.                                             0·90
+Although from the phase 2b trial only infants weighing                                                                             HR 0·183 (95% CI 0·108-0·310), p<0·0001
+less than 5 kg were included in the analysis (in line with
+the dosing regimen), the demographics of the two                                                     0           30     60               90   120        150
+pooled datasets remained similar, with the exception                                                    0
+that the median age in infants in the phase 2b trial             Number at risk                                772 (6)   756 (7)    737 (8)    729 (9)    724 (735)
+was 1·60 months (IQR 0·90-2·50), and in MELODY               (number censored)                       786 (0)  1553 (8)  1546 (11)  1538 (17)  1527 (21)  1519 (1545)
+2·60 months (1·05-4·50; appendix p 5). Overall,                                                     1564 (0)
+2310 (98%) participants (773 [98%] in the placebo group                    Placebo
+and 1537 [98%] in the nirsevimab group) completed                     Nirsevimab
+151 days of follow-up.
+                                                             Proportion of infants not admitted       B
+  Over a follow-up period of 150 days post-dose, the            to hospital for medically attended
+efficacy (RRR) of a single weight-banded dose of                                                    1·00
+nirsevimab against the primary endpoint of medically                RSV LRTI
+attended RSV LRTI was 79·5% (95% CI 65·9-87·7), with                                                0·98
+51 (6%) participants in the placebo group and 19 (1%) in
+the nirsevimab group having an event (table 2). Similar                                             0·96
+efficacy was found against the secondary efficacy
+endpoints (reflecting increasing levels of severity), with                                          0·94
+RRRs of 77·3% (50·3-89·7) against hospital admission
+for medically attended RSV LRTI (21 [3%] placebo                                                    0·92
+recipients vs nine [1%] nirsevimab recipients) and
+86·0% (62·5-94·8) against very severe RSV disease                                                   0·90
+(18 [2%] placebo recipients vs five [<1%] nirsevimab
+recipients). Nirsevimab was also associated with an                                                                                HR 0·210 (95% CI 0·096-0·458), p<0·0001
+RRR of 35·4% (21·5-46·9) against medically attended
+LRTI of any cause and 43·8% (18·8-61·1) against hospital                                            0            30     60               90   120        150
+admission for respiratory illness of any cause (table 2).                                             0
+                                                                                                               778 (6)
+  Kaplan-Meier plots of time to first medically attended        Number at risk                                1554 (8)      Time (days)
+RSV LRTI (figure 1A) and hospital admission (figure 1B)      (number censored)
+showed clear divergence between the nirsevimab and                                                   786 (0)             769 (7)    761 (8)    757 (10)   753 (765)
+placebo curves in the cumulation of events over the                        Placebo                  1564 (0)            1547 (11)  1540 (17)  1535 (21)  1529 (1555)
+entire 150-day post-dose efficacy period, supporting                  Nirsevimab
+the constancy of the benefit of nirsevimab throughout
+the typical RSV season (5 months). Visual assessment of      Figure 1: Kaplan-Meier curves of time to first medically attended RSV LRTI (A) and first hospital admission for
+the corresponding log (-log) plot for medically attended     medically attended RSV LRTI (B) to 150 days post-dose in the pooled intention-to-treat population
+RSV LRTI to assess the proportionality of hazards            p values are from stratified log-rank test. HRs are from stratified Cox proportional hazards models. Tick marks
+indicated that the curves remained parallel, supporting      indicated censored data. (A) In the analysis of time to first medically attended RSV LRTI, 1545 (99%) of
+the proportional hazards assumption and thus that            1564 nirsevimab recipients and 735 (94%) of 786 placebo recipients had no event and were censored; among
+the HR is representative over 150 days post-dose             censored participants, 25 (2%) of 1545 nirsevimab recipients and ten (1%) of 735 placebo recipients were early
+(appendix p 9). Consistent efficacy was also observed        discontinuations before day 151. (B) In the analysis of time to first hospital admission for medically attended
+across subgroups stratified by age at randomisation, sex,    RSV LRTI, 1555 (99%) of 1564 nirsevimab recipients and 765 (97%) of 786 placebo recipients had no event and
+ancestry, weight, or geographical region (figure 2).         were censored; among censored participants, 25 (2%) of 1555 nirsevimab recipients and 11 (1%) of 765 placebo
+                                                             recipients were early discontinuations before day 151. HR=hazard ratio. LRTI=lower respiratory tract infection.
+  Although there were no clinically meaningful               RSV=respiratory syncytial virus.
+differences in the frequency of signs of disease severity
+                                                             between treatment groups (appendix p 6), the intensity
+                                                             of treatment required by infants with breakthrough
+                                                             infections was lower in the nirsevimab group than in
+                                                             the placebo group. Of those infants admitted to hospital
+                                                             for RSV LRTI, four (44%) of nine nirsevimab recipients
+                                                             and 17 (81%) of 21 placebo recipients required
+                                                             supplementary oxygen; one (11%) nirsevimab recipient
+                                                             and five (24%) placebo recipients required continuous
+                                                             positive airway pressure (CPAP) or high-flow nasal
+                                                             cannula (HFNC); and zero nirsevimab recipients and
+                                                             six (29%) placebo recipients were admitted to the
+                                                             intensive care unit (ICU).
+
+                                                               Among nirsevimab recipients, 14 (<1%) were infected
+                                                             with RSV A and five (<1%) with RSV B, and among
+                                                             placebo recipients 35 (5%) were infected with RSV A and
+                                                             16 (2%) with RSV B through 150 days post-dose. Following
+                                                             phenotypic and genotypic analysis, no isolates were
+                                                             identified to be resistant to neutralisation by nirsevimab.
+
+www.thelancet.com/child-adolescent Vol 7 March 2023                                                                                                                               185
+       Articles
+
+                      Events, n/N (%)                                   RRR (95% CI)  pinteraction                subgroups of special interest: infants with chronic lung
+                                                                                                                  disease (94%), infants with haemodynamically significant
+                      Placebo group Nirsevimab group                                                              congenital heart disease (80%), and preterm infants born
+                                                                                                                  at less than 29 weeks gestational age (94%; figure 3).
+Overall               51/786 (6%)      19/1564 (1%)                      79·5 (65·9-87·7) NA
+                                                                                               0·10               Discussion
+Hemisphere*                            17/1086 (2%)
+                                        2/478 (<1%)                      77·3 (60·1-87·5)                         In this pooled analysis of two complementary populations
+Northern              37/536 (7%)                                        92·5 (71·2-98·9)                         of infants entering their first RSV season, a single,
+                                       17/1066 (2%)                                                               prophylactic, intramuscular injection of nirsevimab at
+Southern              14/250 (6%)       2/398 (1%)                                             NA                 50 mg (for infants weighing <5 kg) or 100 mg (for those
+                                        0/100 (0%)                       74·3 (54·2-86·0)                         weighing 5 kg) showed 79·5% efficacy against the
+Age at randomisation, months*                                            93·1 (73·9-98·9)                         primary case definition of medically attended RSV LRTI.
+                                       11/828 (1%)                      100·0 (12·6-NE)                           Similar efficacy was found for RSV-associated hospital
+3·0                   33/531 (6%)       8/736 (1%)                                                                admission and for very severe RSV LRTI requiring
+                                                                                               0·63               supplemental oxygen or intravenous fluids, with sub­
+>3·0 to 6·0           15/204 (7%)      13/919 (1%)                       79·3 (58·5-90·2)                         stantial protection in infants born preterm or at full term
+                                        2/406 (<1%)                      83·4 (64·3-92·9)                         without an underlying risk factor for severe disease.
+>6·0                  3/51 (6%)         4/235 (2%)                                                                Protection was consistent across geographical areas and
+                                                                                               0·75               by infant age and sex. Adding to the previously published
+Sex*                                   14/973 (1%)                       81·7 (66·2-90·6)                         phase 2 and 3 studies of nirsevimab, these pooled data
+                                        5/589 (1%)                       85·6 (31·7-98·0)                         better estimate efficacy in the target population after
+Male                  25/389 (6%)                                        71·9 (7·1-92·6)                          receipt of a weight-banded dose, and affirm the benefit of
+                                        8/435 (2%)                                                                nirsevimab in substantially reducing illness and hospital
+Female                26/397 (7%)       6/548 (1%)                                             0·49               admission in infants.
+                                        5/581 (1%)                       79·0 (61·2-89·1)
+Ancestry*                                                                85·7 (62·9-95·2)                           Given that the mechanism of action of nirsevimab
+                                       12/994 (1%)                                                                (ie, blockage of entry of RSV at the cellular level) is the
+White                 37/478 (8%)       7/570 (1%)                                             0·96               same regardless of gestational age at birth, and the similar
+                                                                         81·3 (57·6-92·3)                         designs in both studies (including similar enrolment
+Black or African American 6/176 (3%)                                     80·2 (50·5-92·9)                         criteria, methods for surveillance, case assess­ment, and
+                                                                         84·2 (58·7-94·8)                         case definitions), pooling of the outcome data is justified.
+Other                 8/132 (6%)                                                                                  Importantly, this pooled analysis is limited to those infants
+                                                                                               0·29               who received the proposed weight-band dosing regimen,
+Weight on day 1, kg*                                                     74·5 (49·6-87·1)                         thereby avoiding an underestimate of efficacy that might
+                                                                         86·2 (68·0-94·0)                         occur by including the initial dosing strategy used in the
+<5                    33/482 (7%)                                                                                 phase 2b trial, in which all infants received 50 mg,
+                                                                                                                  regardless of their weight.
+5                     18/304 (6%)
+                                                                                                                    Overall, consistent efficacy was found across all
+Region*                                                                                                           subgroups and degrees of disease severity. However,
+                                                                                                                  some subpopulations had wide 95% CIs along with an
+North America         18/183 (10%)                                                                                RRR of 100%, and these data should therefore be
+                                                                                                                  interpreted with caution, although this finding is not
+Europe                16/290 (6%)                                                                                 unexpected because the studies were not designed to
+                                                                                                                  assess efficacy in small subpopulations. Furthermore,
+Rest of world         17/313 (5%)                                                                                 although the demonstrable efficacy against all-cause
+                                                                                                                  LRTIs does not preclude replacement of RSV by another
+Study group                                                                                                       pathogen, it does provide reassurance that any potential
+                                                                                                                  for replacement is outweighed by the overall treatment
+MELODY                25/496 (5%)                                                                                 benefit of nirsevimab against RSV.
+
+Phase 2b              26/290 (9%)                                                                                   Nirsevimab showed activity against both RSV A and
+                                                                                                                  RSV B in this pooled analysis, and no isolates resistant to
+                                                     -100 -50 0 50 100                                            neutralisation by nirsevimab were identified among the
+                                                                                                                  breakthrough cases in infants who received the weight-
+                                       Favours placebo Favours nirsevimab                                         banded dosing regimen. Notably, in the phase 2b trial,10
+                                                                                                                  two (8%) of 25 infants had an RSV B isolate containing
+Figure 2: Pooled subgroup analyses of medically attended RSV LRTIs through 150 days post-dose (intention-         amino acid substitutions associated with nirsevimab
+to-treat population)                                                                                              resistance; however, these two infants were not included
+The dashed line indicates 80% RRR. LRTI=lower respiratory tract infection. NA=not applicable. NE=not estimable.   in this pooled analysis because they weighed 5 kg or
+RRR=relative risk reduction. RSV=respiratory syncytial virus. *RRR and its corresponding 95% CI (mid-p adjusted)
+were estimated based on an exact conditional method using PROC GENMOD with no strata; pinteraction value was
+obtained from Poisson regression with robust variance, with terms including treatment group, study, age group,
+hemisphere, subgroup being tested, and treatment-by-subgroup interaction. RRR, 95% CI, and p value were
+estimated based on Poisson regression with robust variance, including age at randomisation as a covariate,
+obtained from PROC MIANALYZE after imputation of missing data. RRR and its corresponding 95% CI were
+estimated based on stratified Cochran-Mantel-Haenszel test (adjusted for the stratification factors [age at
+randomisation and hemisphere]).
+
+                                 Infants who received nirsevimab had less frequent
+                               outpatient visits for LRTI of any cause and were less
+                               frequently prescribed antibiotics for any indication than
+                               were infants who received placebo (table 3). Similarly,
+                               compared with the placebo group, fewer infants in the
+                               nirsevimab group were admitted to hospital for an LRTI
+                               of any cause (investigator's judgement), which was
+                               reflected in lower mean numbers of days of inpatient
+                               health resource use (admitted to hospital, admitted to
+                               ICU, or using CPAP or HFNC, mechanical ventilation,
+                               or supplemental oxygen) per 100 infants through the
+                               RSV season (appendix p 7).
+
+                                 Similar nirsevimab serum concentrations were
+                               achieved in MEDLEY as in the MELODY and phase 2b
+                               trials of infants weighing less than 5 kg.10-12 AUCs were
+                               above the pharmacokinetic target in more than 80% of
+                               the overall MEDLEY trial population (94%) and for all
+
+186                                                                                                               www.thelancet.com/child-adolescent Vol 7 March 2023
+                                                                                                                                                                        Articles
+
+                             Placebo group (n=786)                      Nirsevimab group (n=1564)                                 Relative risk
+                                                                                                                                  reduction (95% CI)*
+
+                             Number of     Number of  Number of events  Number of             Number of         Number of events
+                             infants with  events     per 100 infants   infants with          events            per 100 infants
+                             1 event                  (95% CI)          1 event                                 (95% CI)
+
+Any antibiotic prescription  157 (20%) 269            34·6 (29·0-41·2) 258 (16%) 409                            26·4 (22·8-30·6)  23·6% (3·8-39·3)
+Outpatient visits for LRTI   133 (17%) 219            28·1 (23·5-33·8) 171 (11%) 253                            16·3 (13·9-19·3)  41·9% (25·7-54·6)
+
+LRTI=lower respiratory tract infection. *Percentage reduction in number of events per 100 infants per RSV season (5 months) in the nirsevimab group versus the placebo
+group.
+
+Table 3: Outpatient visits per LRTI and antibiotic prescription for any cause up to 150 days post-dose (intention-to-treat population)
+
+more but received only 50 mg nirsevimab, and thus were                                    60
+not dosed in line with the weight-band dosing regimen
+subsequently developed.                                                                   50
+
+  Extrapolation of efficacy on the basis of pharmacokinetics            AUC (days×mg/mL)  40
+is a common approach to bridging between populations,
+and has a major role in paediatric drug development,17                                    30
+particularly when ethical considerations preclude a
+placebo-controlled design. Similar to the rationale behind                                20
+pooling the data from the phase 2b trial and MELODY,
+this extrapolation relies on the assumptions that the                                     10
+mode of action of nirsevimab and the course of the
+disease are similar among the populations being assessed.                                 0                     Chronic lung    Gestational age Gestational age
+Importantly, nirsevimab pharmacokinetics did not differ                                                            disease
+substantially in infants with congenital heart disease                                        Congenital heart                  <29 weeks  29 weeks
+or chronic lung disease of prematurity; nirsevimab                                                 disease      (MEDLEY trial)
+exposures in the MEDLEY subgroups were similar to                                                                               (MEDLEY trial) (Phase 2b,
+those in healthy infants born preterm or at full-term,                                         (MEDLEY trial)
+providing support for efficacy in infants with chronic
+lung disease or congenital heart disease or those born at                                                                                  MELODY,
+less than 29 weeks gestational age.
+                                                                                                                                           and MEDLEY trials)
+  In a previous systematic review, 1·4 million
+RSV-related hospitalisations and 13300 in-hospital                      Figure 3: Nirsevimab exposures across infant subgroups (as-treated
+deaths were estimated to occur worldwide in infants                     population)
+younger than 6 months, accounting for 51% of the total                  Points represent individual infants; boxes represent IQRs; central lines
+numbers of hospitalisations and deaths in children                      correspond to the medians; whiskers extend to the largest and smallest values
+younger than 5 years.8 Among infants younger than 2                     no further than 1·5×IQR. The dashed line represents the efficacious target AUC0-
+years, annual rates of RSV-associated visits to the                     of 12·8 day×mg/mL. AUC=area under the concentration-time curve.
+emergency depart­ment are estimated to be 59·6 per
+1000 children, and to paediatric practice 205·7 per                     months but also the outpatient burden, which accounts
+1000 children.18 Primary care visits for respiratory                    for more than 90% of RSV disease burden.7
+diseases have clear, predictable, seasonal patterns,
+driven primarily by viral circulations,19 with the                        Less frequent antibiotic use following receipt of
+frequency of winter visits estimated to be three times                  nirsevimab was an unexpected finding. One explanation
+higher than that of summer visits at their lowest level,                is a corresponding reduction in secondary bacterial
+leading to a substantial short-term surge on primary                    infections known to be associated with RSV infection.
+health service demands each winter.19 Consistent with                   RSV infection has been associated with increases in
+the findings for other efficacy endpoints,11 this pooled                the incidence of otitis media20 and pneumococcal
+analysis showed that treatment with nirsevimab lowered                  pneumonia,21 with up to 40% of children with severe RSV
+the number of outpatient visits for an LRTI of any cause,               bronchiolitis admitted to ICUs found to have bacterial
+with numerically fewer infant-days of supplemental                      infection in their lower airways. Moreover, respiratory
+oxygen use, respiratory support, and stays in the ICU.                  viruses such as RSV can damage ciliated cells of the
+Thus, treatment with nirsevimab has the potential to                    airway epithelia, leading to a decline in mucociliary
+substantially reduce the demand on health-care services                 clearance,22 enhancing the risk of developing a secondary
+and effectively reduce the surge not only in                            bacterial infection.23-26 Alternatively, as overprescription
+hospitalisations and ICU stays during the winter                        of antibiotics remains prevalent in the absence of
+                                                                        diagnostic testing,27,28 and is common in acute respiratory
+                                                                        infection,29 the reduction could be a reflection of fewer
+                                                                        infants presenting with RSV LRTI or less severe disease.
+                                                                        Indeed, a reduction in antibiotic prescriptions has the
+                                                                        potential to beneficially protect the infant microbiome
+                                                                        and to reduce the development of antibiotic resistance.30,31
+
+                                                                          A limitation of this analysis is that, although the
+                                                                        efficacy of nirsevimab and the difference by treatment
+                                                                        group in modalities of health resource use have been
+
+www.thelancet.com/child-adolescent Vol 7 March 2023                                                                                                                               187
+     Articles
+
+For AstraZeneca's data sharing        described, it is not possible to generalise the findings to                safety monitoring boards or advisory boards for AstraZeneca. HJZ has
+                policy see https://   assess the effect on either disease burden or health                       received grants or contracts from AstraZeneca, MSD, and Pfizer; payment
+                                      resource use in the general population, because the                        or honoraria from Sanofi; and has participated in data safety monitoring
+          astrazenecagrouptrials.     proportion of infants born preterm included in this                        boards or advisory boards for Pfizer. AB, CC, MPG, TT, UWH, AL, and
+pharmacm.com/ST/Submission/           dataset is higher than that in the general population.                     TV are employees of and hold stock or stock options in AstraZeneca. YY is
+                                      Thus, the data presented relate only to the included study                 a former employee of and holds stock or stock options in AstraZeneca.
+                         Disclosure   populations, and analysis of true population-based                         All other authors declare no competing interests.
+                                      disease burden reduction and health resource use will
+To request access to study data       depend on future population-based studies.                                 Data sharing
+              see https://vivli.org/                                                                             This manuscript has associated data in a repository. Data underlying
+                                        In conclusion, this pooled analysis of two randomised,                   the findings described in this manuscript, including individual
+                                      placebo-controlled studies showed that prophylaxis                         de-identified participant data, protocols, and clinical trial documents,
+                                      with nirsevimab had an efficacy of 79·5% against the                       can be obtained in accordance with AstraZeneca's data sharing policy
+                                      primary case definition of medically attended RSV                          through Vivli.
+                                      LRTI and was consistent across a range of degrees
+                                      of severity of RSV LRTI. Efficacy against all-cause                        Acknowledgments
+                                      medically attended LRTIs and hospital admissions was                       This study was funded by AstraZeneca and Sanofi. Nirsevimab is being
+                                      shown, along with an associated benefit in the reduction                   developed and commercialised in partnership between AstraZeneca and
+                                      in outpatient visits and antibiotic use. On the basis of                   Sanofi. Medical writing support, under the direction of the authors, was
+                                      pharmacokinetic data, a similar degree of efficacy was                     provided by Richard Knight (CMC Connect, a division of IPG Health
+                                      extrapolated to infants born extremely preterm, those                      Medical Communications) and was funded by AstraZeneca, in
+                                      with chronic lung disease, and those with congenital                       accordance with Good Publication Practice 2022 guidelines. We thank
+                                      heart disease.                                                             the trial participants and their families; the team at IQVIA for their role
+                                                                                                                 in study monitoring; the members of the independent data and safety
+                                      Contributors                                                               monitoring committee (Larry Givner [chair; Wake Forest School of
+                                      SAM, WJM, VA, MB, FC, MBC, JBD, MLG-G, IG, KAM, and HJZ                    Medicine], William Blackwelder [biostatistician; University of Maryland
+                                      contributed to the investigation and methodology of the study and          School of Medicine], and John Modlin [Bill & Melinda Gates
+                                      reviewed and edited the manuscript. EAFS contributed to the                Foundation]); the members of the investigator teams; the full clinical
+                                      investigation and methodology of the study, and wrote the original draft   team at AstraZeneca and Michael P McCarthy (formerly of AstraZeneca)
+                                      and reviewed and edited subsequent drafts of the manuscript. AB, CC,       for assistance with manuscript preparation; Vadryn Pierre, Anis Khan,
+                                      YY, and UWH contributed to data curation, formal analysis, and             and Mark T Esser (AstraZeneca) for their work on nirsevimab
+                                      validation, and reviewed and edited the manuscript. TT contributed to      pharmacokinetics and dose optimisation; and Beatriz Seoane Nuñez and
+                                      conceptualisation, investigation, and project administration, and          Alex Currie (AstraZeneca) for their work on the statistical analyses.
+                                      reviewed and edited the manuscript. AL contributed to the
+                                      conceptualisation, investigation, and methodology of the study, and wrote  References
+                                      the original draft and reviewed and edited subsequent drafts of the        1 Murray J, Bottle A, Sharland M, et al. Risk factors for hospital
+                                      manuscript. MPG and TV contributed to the conceptualisation,
+                                      investigation, and methodology of the study, and reviewed and edited the         admission with RSV bronchiolitis in England: a population-based
+                                      manuscript. All authors had access to the results of the aggregated              birth cohort study. PLoS One 2014; 9: e89186.
+                                      analysis. EAFS, YY, UWH, and AL accessed and verified the data
+                                      underlying the study. All authors reviewed the manuscript, were            2 Hall CB. The burgeoning burden of respiratory syncytial virus
+                                      responsible for the decision to submit the manuscript for publication,           among children. Infect Disord Drug Targets 2012; 12: 92-97.
+                                      and vouch for the accuracy and completeness of the data and for the
+                                      fidelity of the trial to the protocol.                                     3 Rha B, Curns AT, Lively JY, et al. Respiratory syncytial virus-
+                                                                                                                       associated hospitalizations among young children: 2015-2016.
+                                      Declaration of interests                                                         Pediatrics 2020; 146: e20193611.
+                                      EAFS has received grants or contracts from AstraZeneca, Johnson and
+                                      Johnson, Merck, Pfizer, and Roche; consulting fees from Adiago             4 Chaw PS, Hua L, Cunningham S, et al. Respiratory syncytial virus-
+                                      Therapeutics, Cidara Therapeutics, Merck, Nuance Pharmaceuticals,                associated acute lower respiratory infections in children with
+                                      Pfizer, and Sanofi; payment or honoraria from AstraZeneca and Pfizer;            bronchopulmonary dysplasia: systematic review and meta-analysis.
+                                      support for meeting attendance and/or travel from AstraZeneca; and has           J Infect Dis 2020; 222 (suppl 7): S620-27.
+                                      participated in data safety monitoring boards or advisory boards for
+                                      Abbvie, the Bill and Melinda Gates Foundation, and GSK. SAM has            5 Chaw PS, Wong SWL, Cunningham S, et al. Acute lower respiratory
+                                      received grants or contracts from the Bill and Melinda Gates Foundation,         infections associated with respiratory syncytial virus in children
+                                      GSK, Minervax, Pfizer, and the South African Medical Research Council;           with underlying congenital heart disease: systematic review and
+                                      payments or honoraria from the Bill and Melinda Gates Foundation; and            meta-analysis. J Infect Dis 2020; 222 (suppl 7): S613-19.
+                                      has participated in data safety monitoring boards or advisory boards for
+                                      PATH and CAPRISA. WJM has received grants or contracts from Ansun,         6 Shi T, Balsells E, Wastnedge E, et al. Risk factors for respiratory
+                                      Astellas, AstraZeneca, Eli Lilly, Enanta Pharmaceuticals, Genentech,             syncytial virus associated with acute lower respiratory infection in
+                                      Gilead, Janssen, Karius, Melinta, Merck, Moderna, Nabriva, Paratek,              children under five years: systematic review and meta-analysis.
+                                      Pfizer, and Tetraphase; consulting fees from Finley Law Firm and Seqirus;        J Glob Health 2015; 5: 020416.
+                                      payment or honoraria from Contemporary Pediatrics; and has participated
+                                      in data safety monitoring boards or advisory boards for Adagio             7 Thomas E, Mattila JM, Lehtinen P, Vuorinen T, Waris M,
+                                      Therapeutics and ProventionBio. FC is a member of the Paediatric                 Heikkinen T. Burden of respiratory syncytial virus infection during
+                                      Committee at the European Medicines Agency (EMA), but has not                    the first year of life. J Infect Dis 2021; 223: 811-17.
+                                      participated in the deliberations or decisions related to this product
+                                      (as communicated to the EMA). JBD has received consulting fees from        8 Li Y, Wang X, Blau DM, et al. Global, regional, and national disease
+                                      Sanofi; payment or honoraria from Sanofi; and has participated in data           burden estimates of acute lower respiratory infections due to
+                                                                                                                       respiratory syncytial virus in children younger than 5 years in 2019:
+                                                                                                                       a systematic analysis. Lancet 2022; 399: 2047-64.
+
+                                                                                                                 9 Zhu Q, McLellan JS, Kallewaard NL, et al. A highly potent extended
+                                                                                                                       half-life antibody as a potential RSV vaccine surrogate for all
+                                                                                                                       infants. Sci Transl Med 2017; 9: eaaj1928.
+
+                                                                                                                 10 Griffin MP, Yuan Y, Takas T, et al. Single-dose nirsevimab for
+                                                                                                                       prevention of RSV in preterm infants. N Engl J Med 2020;
+                                                                                                                       383: 415-25.
+
+                                                                                                                 11 Hammitt LL, Dagan R, Yuan Y, et al. Nirsevimab for prevention of
+                                                                                                                       RSV in healthy late-preterm and term infants. N Engl J Med 2022;
+                                                                                                                       386: 837-46.
+
+                                                                                                                 12 Domachowske J, Madhi SA, Simões EAF, et al. Safety of nirsevimab
+                                                                                                                       for RSV in infants with heart or lung disease or prematurity.
+                                                                                                                       N Engl J Med 2022; 386: 892-94.
+
+188                                                                                                              www.thelancet.com/child-adolescent Vol 7 March 2023
+                                                                                                                                                            Articles
+
+13 Mulugeta Y, Barrett JS, Nelson R, et al. Exposure matching for             23 Avadhanula V, Wang Y, Portner A, Adderson E. Nontypeable
+      extrapolation of efficacy in pediatric drug development.                      Haemophilus influenzae and Streptococcus pneumoniae bind
+      J Clin Pharmacol 2016; 56: 1326-34.                                           respiratory syncytial virus glycoprotein. J Med Microbiol 2007;
+                                                                                    56: 1133-37.
+14 Domachowske JB, Khan AA, Esser MT, et al. Safety, tolerability and
+      pharmacokinetics of MEDI8897, an extended half-life single-dose         24 Fukasawa C, Ishiwada N, Ogita J, Hishiki H, Kohno Y. The effects
+      respiratory syncytial virus prefusion F-targeting monoclonal antibody         of disodium cromoglycate on enhanced adherence of Haemophilus
+      administered as a single dose to healthy preterm infants.                     influenzae to A549 cells infected with respiratory syncytial virus.
+      Pediatr Infect Dis J 2018; 37: 886-92.                                        Pediatr Res 2009; 66: 168-73.
+
+15 Griffin MP, Khan AA, Esser MT, et al. Safety, tolerability,                25 Hament JM, Aerts PC, Fleer A, et al. Direct binding of respiratory
+      and pharmacokinetics of MEDI8897, the respiratory syncytial virus             syncytial virus to pneumococci: a phenomenon that enhances
+      prefusion F-targeting monoclonal antibody with an extended half-life,         both pneumococcal adherence to human epithelial cells and
+      in healthy adults. Antimicrob Agents Chemother 2017; 61: e01714-16.           pneumococcal invasiveness in a murine model. Pediatr Res 2005;
+                                                                                    58: 1198-203.
+16 Zou G. A modified poisson regression approach to prospective
+      studies with binary data. Am J Epidemiol 2004; 159: 702-06.             26 Bragonzi A, Copreni E, de Bentzmann S, Ulrich M, Conese M.
+                                                                                    Airway epithelial cell-pathogen interactions. J Cyst Fibros 2004;
+17 Sun H, Temeck JW, Chambers W, Perkins G, Bonnel R, Murphy D.                     3 (suppl 2): 197-201.
+      Extrapolation of efficacy in pediatric drug development and
+      evidence-based medicine: progress and lessons learned.                  27 Schot MJC, Dekker ARJ, van Werkhoven CH, et al. Burden of
+      Ther Innov Regul Sci 2017; 2017: 1-7.                                         disease in children with respiratory tract infections in primary care:
+                                                                                    diary-based cohort study. Fam Pract 2019; 36: 723-29.
+18 Lively JY, Curns AT, Weinberg GA, et al. Respiratory syncytial virus-
+      associated outpatient visits among children younger than                28 Wang D, Liu C, Zhang X, Liu C. Does diagnostic uncertainty
+      24 months. J Pediatric Infect Dis Soc 2019; 8: 284-86.                        increase antibiotic prescribing in primary care?
+                                                                                    NPJ Prim Care Respir Med 2021; 31: 17.
+19 Moineddin R, Nie JX, Domb G, Leong AM, Upshur RE. Seasonality
+      of primary care utilization for respiratory diseases in Ontario:        29 Sarna M, Ware RS, Sloots TP, Nissen MD, Grimwood K,
+      a time-series analysis. BMC Health Serv Res 2008; 8: 160.                     Lambert SB. The burden of community-managed acute respiratory
+                                                                                    infections in the first 2-years of life. Pediatr Pulmonol 2016;
+20 Ruuskanen O, Arola M, Putto-Laurila A, et al. Acute otitis media                 51: 1336-46.
+      and respiratory virus infections. Pediatr Infect Dis J 1989; 8: 94-99.
+                                                                              30 Patangia DV, Anthony Ryan C, Dempsey E, Paul Ross R, Stanton C.
+21 Weinberger DM, Klugman KP, Steiner CA, Simonsen L, Viboud C.                     Impact of antibiotics on the human microbiome and consequences
+      Association between respiratory syncytial virus activity and                  for host health. MicrobiologyOpen 2022; 11: e1260.
+      pneumococcal disease in infants: a time series analysis of US
+      hospitalization data. PLoS Med 2015; 12: e1001776.                      31 Bresesti I, Salvatore S, Valetti G, Baj A, Giaroni C, Agosti M.
+                                                                                    The microbiota-gut axis in premature infants: physio-pathological
+22 Tristram DA, Hicks W Jr, Hard R. Respiratory syncytial virus and                 implications. Cells 2022; 11: 379.
+      human bronchial epithelium. Arch Otolaryngol Head Neck Surg
+      1998; 124: 777-83.
+
+www.thelancet.com/child-adolescent Vol 7 March 2023                                                                                                                   189
+

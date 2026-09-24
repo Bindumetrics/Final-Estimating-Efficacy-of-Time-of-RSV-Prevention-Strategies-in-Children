@@ -1,0 +1,305 @@
+      Human Vaccines & Immunotherapeutics
+
+           ISSN: 2164-5515 (Print) 2164-554X (Online) Journal homepage: www.tandfonline.com/journals/khvi20
+
+Comparing statistical methods for detecting and
+estimating waning efficacy of rotavirus vaccines
+in developing countries
+
+Michael Haber, Jacqueline E. Tate, Benjamin A. Lopman, Wenrui Qi, Kylie E.
+C. Ainslie & Umesh D. Parashar
+
+To cite this article: Michael Haber, Jacqueline E. Tate, Benjamin A. Lopman, Wenrui Qi, Kylie
+E. C. Ainslie & Umesh D. Parashar (2021) Comparing statistical methods for detecting and
+estimating waning efficacy of rotavirus vaccines in developing countries, Human Vaccines &
+Immunotherapeutics, 17:11, 4632-4635, DOI: 10.1080/21645515.2021.1968738
+To link to this article: https://doi.org/10.1080/21645515.2021.1968738
+
+           Published online: 06 Oct 2021.
+
+           Submit your article to this journal
+           Article views: 1196
+
+           View related articles
+           View Crossmark data
+           Citing articles: 2 View citing articles
+
+                                 Full Terms & Conditions of access and use can be found at
+                   https://www.tandfonline.com/action/journalInformation?journalCode=khvi20
+HUMAN VACCINES & IMMUNOTHERAPEUTICS
+2021, VOL. 17, NO. 11, 4632-4635
+https://doi.org/10.1080/21645515.2021.1968738
+
+RESEARCH PAPER
+
+Comparing statistical methods for detecting and estimating waning efficacy of
+rotavirus vaccines in developing countries
+
+Michael Habera, Jacqueline E. Tateb, Benjamin A. Lopmanb,c, Wenrui Qia, Kylie E. C. Ainslied, and Umesh D. Parasharb
+
+aDepartment of Biostatistics and Bioinformatics, Emory University, Atlanta, GA, USA; bCenters for Disease Control and Prevention, Atlanta, GA, USA;
+cDepartment of Epidemiology, Emory University, Atlanta, GA, USA; dMrc Centre for Global Infectious Disease Analysis, Department of Infectious
+Disease Epidemiology, School of Public Health, Imperial College, London, UK
+
+ABSTRACT                                                                                                      ARTICLE HISTORY
+                                                                                                              Received 30 April 2021
+Introduction: Vaccination has significantly reduced morbidity and mortality resulting from rotavirus          Revised 16 July 2021
+infection worldwide. However, rotavirus vaccine efficacy (VE) appears to wane over the first 2 years          Accepted 11 August 2021
+since vaccination, particularly in developing countries. Statistical methods for detecting VE waning and
+estimating its rate have been used in a few studies, but comparisons of methods for evaluating VE waning      KEYWORDS
+have not yet been performed. In this work we present and compare three methods - Durham's method,             waning vaccine efficacy;
+Tian's method, and time-dependent covariate (TDC) method - based on generalizations of the Cox                rotavirus vaccine; hazard of
+proportional hazard model.                                                                                    infection; Cox regression
+Methods: We developed a new stochastic agent-based simulation model to generate data from                     model; agent-based
+a hypothetical rotavirus vaccine trial where the protective efficacy of the vaccine may vary over time.       simulations
+Input parameters to the simulation model were obtained from studies on rotavirus infections in four
+developing countries. We applied each of the methods to four simulated datasets and compared the type-
+1 error probabilities and the powers of the resulting statistical tests. We also compared estimated and true
+values of VE over time.
+Results: Durham's method had the highest power of detecting true VE waning of the three methods. This
+method also provided quite accurate estimates of VE in each period and of the per-period drop in VE.
+Conclusions: Durham's method is somewhat more powerful than the other two Cox proportional hazards
+model-based methods for detecting VE waning and provides more information about the temporal
+behavior of VE.
+
+1. Introduction                                                   waning of VE over time may be because unvaccinated children
+                                                                  are more likely than vaccinated children to become infected
+Rotavirus (RV) infections cause over 200,000 deaths annually      and acquire natural immunity to subsequent infection (after
+world-wide, 85% of which occur in low-income countries of Asia    the first infection).3 Therefore, the difference in protection
+and Africa.1 RV vaccines have been used globally since 2006, and  between vaccinated and unvaccinated children seems to
+by 2020 over 100 countries have included rotavirus vaccination    decrease over time. When VE is estimated from the cumulative
+in their national immunization programs. There are four RV        incidence (attack rates) in vaccinated and unvaccinated chil­
+vaccines pre-qualified by the World Health Organization and       dren, and even when only the first infection of each child is
+available for use worldwide: GlaxoSmithKline's (GSK's) mono­      considered, the estimated VE may decrease over time while the
+valent vaccine (Rotarix), Merck's pentavalent vaccine (RotaTeq),  true VE remains fixed.4
+Bharat Biotech's monovalent vaccine (Rotavac), and Serum
+Institute of India's pentavalent vaccine (Rotasiil).                 It is very important to detect RV VE waning and estimate
+                                                                  the rate of decrease in VE over time. Parents should be aware of
+   While vaccination has significantly reduced RV-associated      the long-term protective effect of any vaccines given to their
+morbidity and mortality, there are two serious challenges         children, and health authorities should use information about
+related to RV vaccines in low-income settings. First, RV vac­     VE waning when designing or modifying vaccination sche­
+cines are less effective in low-income settings than in high-     dules. Over the years, a few methods have been proposed and
+income settings.2,3 Second, the effectiveness of RV vaccine       used to evaluate VE waning for various vaccines. However, we
+appears to decline faster with increasing age in low-income       could not find any study that compares these methods or
+countries than in medium- and high-income countries.2 Clark       recommends which method to evaluate VE waning should be
+et al. used a Bayesian hierarchical Poisson meta-regression       preferred.
+model to estimate the pooled cumulative vaccine efficacy
+(VE) and its waning by mortality strata.2 They found that,           The main goal of this work is to compare different statistical
+compared to low mortality settings, RV vaccine immunogeni­        methods to detect true waning of RV VE and to estimate the
+city is lower and wanes more rapidly in high mortality settings.  magnitude of age-related changes in VE. These comparisons
+Rogawski et al. reached similar conclusions; they explain that    are performed using new stochastic agent-based simulation
+
+CONTACT Michael Haber mhaber@emory.edu  Department of Biostatistics and Bioinformatics, Emory University, Atlanta, GE, USA
+
+© 2021 Taylor & Francis Group, LLC
+                                                                  HUMAN VACCINES & IMMUNOTHERAPEUTICS  4633
+
+software that generates data like those observed in real-life RV     For each combination of country and level of waning we
+VE studies. Input parameters are based on RV studies con­         conducted 100 simulations. The output from each simulation
+ducted in developing countries. We focus on VE against the        was an `outcomes file' which included each child's vaccination
+first occurrence of rotavirus diarrhea (RVD) to avoid con­        status and the age (in days) at the first RVD episode (if any).
+founding of natural immunity acquired after the first infection   Three methods (described below) were used to test the null
+with the protective effect of the vaccine.3 To our best knowl­    hypothesis that the efficacy of the RV vaccine does not change
+edge, this is the first article comparing different statistical   with time and to estimate the rate of waning. These methods
+methods for estimation of waning VE.                              were applied to the outcomes file from each simulation, and the
+                                                                  proportion of simulations where the null hypothesis of no
+2. Materials and methods                                          waning was not accepted was determined. When there is no
+                                                                  waning, this proportion estimates the type I error probability of
+2.1. Estimation of vaccine efficacy over time                     the statistical test. When there is waning, this proportion is an
+                                                                  estimate of the power of the test. In addition, one of the
+Vaccine efficacy is usually estimated as one minus the ratio of   methods was used to estimate the value of VE in each period
+the attack rates (cumulative incidence rates) over a specific     and the rate of change in VE from one period to the next.
+time interval between vaccinated and unvaccinated persons.
+Since this a summary estimate of VE over a time interval, it         A copy of the simulation software is available from the
+does not reflect the magnitude of VE at a given time point.       authors upon request.
+Moreover, this estimate of VE may decrease over time even
+when there is no temporal change of the true VE.4 Therefore,      2.3. The Cox Proportional hazard model and its
+we recommend to estimate VE at a given time point as one          generalizations
+minus the ratio of the hazard of the outcome of interest (first
+occurrence of RVD in our case) in a vaccinated and an unvac­      Since we defined VE as one minus the hazard ratio comparing
+cinated person at this time point. Note that the hazard at        vaccinated and unvaccinated children, the hypothesis that VE
+a given time point is defined as the instantaneous risk of the    does not change with age is equivalent to the hypothesis of
+outcome in persons who have not experienced the outcome           a fixed (time-independent) hazard ratio, or equivalently, the
+(i.e. are still susceptible) just before that time point.         proportional hazard hypothesis. The most common estimate of
+                                                                  a fixed hazard ratio is based on Cox's proportional hazard
+2.2. The simulation model and input data                          model. Let t denote the time (in days) from vaccination and
+                                                                  let V denote the binary vaccination status. Under the Cox
+Our stochastic agent-based simulation model assumes that          model, the hazard of a child of vaccination status V at time
+a cohort of two thousand 60-day-old infants is followed up        t is written as: ðtjVÞ ¼ 0ðtÞ  Expf  Vg, where 0(t) is the
+until they reach the age of 360 days. We assume that a pre-set    hazard of an unvaccinated child at time t (the baseline hazard),
+proportion of the children in the cohort received all required    and  is a coefficient that can be estimated from the data. Then
+doses of the rotavirus vaccine 14 days prior to the onset of the  the fixed hazard ratio is HR = Exp() and the fixed VE is
+study. Vaccination is done at random. The study duration          estimated as one minus the estimate of Exp(). Therefore,
+(300 days) is divided into 10 periods of 30 days each. The        changes in VE over time violate the proportional hazard
+input parameters for each period are as follows: (1) , which      assumption. To allow for time-variable VE, the Cox model
+denotes the daily hazard of an unvaccinated susceptible child to  presented above has to be replaced by a more general model,
+contract her/his first RVD occurrence, and (2) , which is         such as: ðtjVÞ ¼ 0ðtÞ  ExpfðtÞ  Vg. In other words, the
+defined such that the daily hazard of RVD in a vaccinated         coefficient  is allowed to vary over time. Then VE at time
+susceptible child is   . Hence, the true vaccine efficacy is      t is VE(t) = 1-Exp{(t)}, and the null hypothesis of no waning
+VE = 1- . The values of these daily parameters are fixed during   is equivalent to (t)   for all time points t. We consider three
+each period but may vary from one period to the next.             methods for testing this hypothesis.
+
+   The input values for the daily hazards ('s) of the first       2.4. Durham's method
+occurrence of RVD in unvaccinated children were obtained
+from MAL-ED, a multi-country birth cohort study on enteric        This method is based on smoothing scaled residuals from the
+infections and malnutrition in 8 countries from April 2009 to     proportional hazard model.6 It consists of four steps. First, an
+February 2014.5 Healthy children were enrolled within 17 days     ordinary proportional hazard model is fitted. Second,
+of birth and were followed until 24 months of age. We used        Schoenfeld residuals7 are calculated. The residual is the differ­
+data from four countries where RV vaccination was not yet         ence between the covariate at the failure time and the expected
+included in the national immunization program: Bangladesh,        value of the covariate at this same time. Third, these residuals
+India, Nepal and Pakistan. For the  's we assumed that at the     are expanded about the regression coefficients in a Taylor
+beginning of the study VE was 60%,2 and we considered 3           series and added to the coefficient from the ordinary propor­
+levels of vaccine efficacy waning: (1) no waning (i.e.  was       tional hazard model. Fourth, after smoothing the estimated
+fixed over all periods), (2) moderate waning, where we let the    proportional hazard coefficient and the scaled Schoenfeld resi­
+absolute VE decrease 3% in each 30-day period, and (3) severe     duals, we can get the estimated hazard ratios as function of
+waning, where the absolute VE decreased 6% per period.            time. This allows the estimation of vaccine efficacy at each time
+                                                                  point.
+4634      M. HABER ET AL.
+
+2.5. Tian's method                                                              Next, we look at the results for the moderate and severe
+                                                                             waning scenarios, where the true VE is assumed to decrease by
+In this method, a kernel-weighted partial likelihood approach                3 and 6% in each 30-days period, respectively. Under these
+is used to obtain a confidence band of the time-dependent                    scenarios, where the proportion of rejections estimates the
+coefficient ðtÞ.8 At each time point, the estimate is obtained               power of the test of no waning, the proportion of rejections
+by maximizing a smooth concave function of a p x 1 vector of                 with Durham's method was somewhat higher than with the
+parameters, where p is the dimension of the vector of covari­                other two methods based on the data from all four countries.
+ates. The ð1 À Þ confidence bands for the time-dependent                     For example, for the simulations based on Bangladesh's hazard
+coefficient ðtÞ can be obtained by                                           rates, under the severe waning scenario the proportions of
+                                                                             rejections with Durham's, Tian's and the TDC methods were
+   ^ðtÞ  cw^ðtÞÀ 1, where t is in the time interval of interest              0.63, 0.55 and 0.55, respectively.
+ðb1  t  b2Þ, c is the 100ð1 À Þth percentile of the approx­
+imate distribution of ^ðtÞ; and w^ðtÞ is a positive weighting                3.2. Accuracy of the VE estimates
+function. These confidence bands can also be used to test the
+hypothesis of no VE waning (i.e., that the proportional hazards              Of the three methods described earlier, only Durham's method
+assumption is met).                                                          provides estimates of VE in each period. The means of esti­
+                                                                             mated VEs over 100 simulations for each period using
+2.6 Time-dependent covariates (TDC) method                                   Durham's method are shown in Table 2 for the simulations
+                                                                             based on the Bangladesh hazard rates. The estimated VEs were
+In this method, the following Cox proportional hazard                        usually close to the true VEs used in the simulations. For
+model with a time-dependent covariate is fit:                                example, the absolute biases (estimated VE minus true VE) in
+ðtjVÞ ¼ 0ðtÞ  Expf   V þ   V  gðtÞg; where gðtÞ is an                        period 3 for the no waning, moderate waning and severe
+arbitrary function of time; usually the function gðtÞ ¼                      waning scenarios were 0.4%, -0.5% and -1.3%, respectively.
+logðtÞ is used.9 This is a proportional hazard model with                    In period 6, the biases were -0.1%, -4.2%, and 1.8%, respec­
+two covariates: the time-fixed binary vaccination status                     tively, and in period 9 the biases were 0.0%, -5.0%, and -2.3%,
+V and the time-dependent covariate V  gðtÞ: Under this                       respectively. Similar results (not shown) were observed for the
+model, vaccine efficacy at time t is: VEðtÞ ¼ 1 À                            simulations based on the hazard rates from the other three
+expf þ   gðtÞg: Therefore, the hypothesis of no vaccine                      countries.
+efficacy waning is equivalent to H0:  ¼ 0.
+                                                                             3.3. Accuracy of estimated drop in VE per period
+   For each of the methods listed above (Durham's, Tian's, and
+TDC) we determined the proportion of simulations where the                   We compared the average estimated per-period drop in VE
+null hypothesis of no VE waning was rejected under each of the               using Durham's method to the true per-period drop used in the
+three waning scenarios.                                                      input to the simulation software. The results are shown in
+                                                                             Table 3. The average change in VEs per period was close to 0
+3. Results
+                                                                             Table 2. Comparing estimated VE via Durham's method with true VE from
+3.1. Comparison of proportion rejections of the null                         simulations based on Bangladesh's hazard rates.
+hypothesis of no VE waning between the three methods
+                                                                                         No waning          Moderate waning   Severe waning
+Table 1 presents the proportion of simulations where the null
+hypothesis of no VE waning was rejected under each of the                    Period    Estimated     True   Estimated  True   Estimated  True
+three waning scenarios (Section 2.2) for each of the three                               VE(%)       VE(%)    VE(%)    VE(%)    VE(%)    VE(%)
+methods (Durham's, Tian's, and TDC). In the no waning
+scenario, this proportion should be around or below the nom­                 1           60.4        60.0   57.9       60.0   53.5       60.0
+inal significance level of 0.05. This was satisfied with all three
+methods in the simulations that used the hazard rates from                   2           60.3        60.0   56.1       57.0   50.7       54.0
+Bangladesh, India and Nepal. In the simulations that used the
+hazard rates from Pakistan, the proportions of rejections in the             3           60.4        60.0   53.5       54.0   46.7       48.0
+no waning scenario exceeded 0.05 with all 3 methods (0.08,
+0.07, 0.08, respectively).                                                   4           60.1        60.0   51.3       51.0   41.9       42.0
+
+                                                                             5           60.0        60.0   48.9       48.0   36.3       36.0
+
+                                                                             6           59.9        60.0   45.8       45.0   31.8       30.0
+
+                                                                             7           60.1        60.0   41.7       42.0   25.4       24.0
+
+                                                                             8           59.9        60.0   36.2       39.0   18.1       18.0
+
+                                                                             9           60.0        60.0   31.0       36.0   9.7        12.0
+
+                                                                             10          60.9        60.0   26.8       33.0   1.7        6.0
+
+Table 1. Proportion of simulations where the hypothesis of no VE waning was  Table 3. Estimated change in absolute VE per period () using Durham's method.
+rejected.
+
+          No waning        Moderate waning Severe waning                                 No waning          Moderate waning   Severe waning
+                                                                                           ¼ 0%                  ¼ À 3%          ¼ À 6%
+          Durham Tian TDC Durham Tian TDC Durham Tian TDC
+
+Bangladesh 0.01 0.03 0.02 0.23 0.20 0.18 0.63 0.55 0.55                      Bangladesh        0.1%         -3.5%             -5.8%
+                                                                                                            -2.7%             -5.4%
+India     0.04 0.02 0.03 0.18 0.14 0.13 0.25 0.21 0.22                       India             0.1%         -2.8%             -4.9%
+                                                                                                            -2.9%             -6.1%
+Nepal     0.04 0.06 0.04 0.17 0.15 0.08 0.36 0.31 0.34                       Nepal             0.2%
+
+Pakistan  0.08 0.07 0.08 0.23 0.21 0.19 0.54 0.48 0.48                       Pakistan          0.8%
+                                                                    HUMAN VACCINES & IMMUNOTHERAPEUTICS  4635
+
+in the no waning scenario. For the moderate and severe waning       a cohort study where one does not adjust for possible con­
+scenarios, the estimated changes in VE per period were close to     founders. Third, we only used input data from developing
+the true value of -0.03 and -0.06, respectively.                    countries. Finally, we used only a single value of true
+                                                                    VE = 60% (we repeated some of the simulations with a higher
+4. Discussion                                                       VE of 80% and observed similar results). We plan to address
+                                                                    these issues in the future. We also plan to use data on other
+In our comparison of three different methods based on gen­          vaccine-preventable diseases, such as influenza, pneumococcal
+eralizations of the Cox proportional hazard model to evaluate       diseases, and COVID-19.
+waning of RV VE, we found that all three methods can detect
+drops in VE over time when applied to simulated data with true      Disclosure of potential conflicts of interest
+decreasing VE. Durham's method is somewhat more likely to
+reject the null hypothesis of no VE waning, i.e., it has the        No potential conflicts of interest were disclosed.
+highest power of detecting true VE waning. Durham's method
+also provides quite accurate estimates of VE in each period,        Funding
+and of the per-period drop in VE. Tian's and the TDC method
+do not provide estimates of VE in each period and cannot be         This work was supported by the Centers for Disease Controls and
+used to estimate the rate of VE waning. Output from Durham's        Prevention (CDC) via an IPA [19IPA1912112]. The findings and conclu­
+method can also be used to plot the estimated VEs as a function     sions in this report are those of the author(s) and do not necessarily
+of time since vaccination. These plots provide the user with        represent the official position of the Centers for Disease Control and
+visual information about the temporal behavior of VE.               Prevention.
+
+   Based on these comparisons, we conclude that Durham's            References
+method is somewhat more powerful than the other two Cox
+proportional hazards model-based methods in terms of detect­            1. Tate JE, Burton AH, Boschi-Pinto C, Parashar UD. Global, regio­
+ing VE waning and provides more information about the                       nal, and national estimates of rotavirus mortality in children < 5
+temporal behavior of VE. However, Durham's method has                       years of age, 2000-2013. Clin Infect Dis. 2016;62:S96-S105.
+a few limitations. First, though Durham's method has some­
+what higher power for rejecting the hypothesis of no waning,            2. Clark A, van Zandvoort K, Flasche S, Sanderson C, Bines J, Tate J,
+compared to the other two methods, the power is still a bit low             Parashar U, Jit M. Efficacy of live oral rotavirus vaccines by dura­
+given the relatively large sample size of 2000. Even in the severe          tion of follow-up: a meta-regression of randomised controlled
+waning scenario, when VE declines by 6% in each 30-day                      trials. Lancet Infect Dis. 2019;19:717-27. doi:10.1016/S1473-
+period, the power we observed in this simulation study ranged               3099(19)30126-4.
+between 0.25 and 0.63. Under moderate waning, where the true
+decline in VE was 3% per period, the power ranged between               3. Rogawski ET, Platts-Mills JA, Colgate ER, Haque R, Zaman K,
+0.17 and 0.23. Hence, future research will be needed to develop             Petri WA, Kirkpatrick BD. Quantifying the impact of natural
+more powerful methods for detecting VE waning. Second, this                 immunity on rotavirus vaccine efficacy estimates: a clinical trial
+method is based on the assumption that the hazard of infection              in Dhaka, Bangladeshh (PROVIDE) and a simulation study.
+follows the (generalized) Cox regression model, i.e., the hazard            J Infect Dis. 2018;217:861-68. doi:10.1093/infdis/jix668.
+can be written as ðtjVÞ ¼ 0ðtÞ  ExpfðtÞ  Vg, where t is the
+time since vaccination and V is the binary vaccination status.          4. Smith PG, Rogriguez LC, Fine PE. Assessment of the protective
+This assumption about the hazard function may not always                    efficacy of vaccines against common diseases using case-control
+hold. Third, this method assumes that vaccination status does               and cohort studies. Int J Epidemiol. 1984;13:87-93. doi:10.1093/ije/
+not vary over time. In contrast, Tian's and the TDC method                  13.1.87.
+allows persons to receive the vaccine at different times or ages.
+More research is needed to develop methods that can be                  5. Mohan VR, Karthikeyan R, Babji S, McGrath M, Shrestha S,
+applied to situations where study participants are vaccinated               Shrestha J, Mdumah E, Amour C, Samie A, Emanuel N, et al.
+at different times points. In addition, it may be possible to               Rotavirus infection and disease in a multisite birth cohort: results
+develop more general methods that allow researchers to use                  from the MAL-ED Study. J Infect Dis. 2017;216:305-16.
+information on temporal changes in the prevalence of infection              doi:10.1093/infdis/jix199.
+in the population by modeling the hazard of infection as
+a function of the prevalence.                                           6. Durham LK, Longini IM, Halloran ME, Clemens JD, Nizam A,
+                                                                            Rao M. Estimation of vaccine efficacy in the presence of waning:
+   Our study has a few limitations. First, our model assumes                application to cholera vaccines. Amer J Epidemiol.
+that all vaccinated study participants received the vaccine at the          1998;147:948-59. doi:10.1093/oxfordjournals.aje.a009385.
+same time. Second, we assumed a randomized vaccine trial or
+                                                                        7. Schoenfeld D. Partial residuals for the proportional hazard regres­
+                                                                            sion model. Biometrika. 1982;69:239-41. doi:10.1093/biomet/
+                                                                            69.1.239.
+
+                                                                        8. Tian L, Zucker D, Wei LJ. On the Cox model with time-varying
+                                                                            regression coefficients. J Amer Statist Assoc. 2005;100:172-83.
+                                                                            doi:10.1198/016214504000000845.
+
+                                                                        9. Klein JP, Moeschberger ML. Survival analysis: techniques for
+                                                                            censored and trancated data. New York: Springer Science &
+                                                                            Business Media; 2006.
+

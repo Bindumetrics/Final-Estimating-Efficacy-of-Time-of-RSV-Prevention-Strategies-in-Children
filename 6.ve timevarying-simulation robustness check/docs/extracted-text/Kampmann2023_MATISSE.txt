@@ -1,0 +1,1003 @@
+The new england journal of medicine
+
+Original Article
+
+ Bivalent Prefusion F Vaccine in Pregnancy
+       to Prevent RSV Illness in Infants
+
+   B. Kampmann, S.A. Madhi, I. Munjal, E.A.F. Simões, B.A. Pahud, C. Llapur,
+ J. Baker, G. Pérez Marc, D. Radley, E. Shittu, J. Glanternik, H. Snaggs, J. Baber,
+P. Zachariah, S.L. Barnabas, M. Fausett, T. Adam, N. Perreras, M.A. Van Houten,
+ A. Kantele, L.-M. Huang, L.J. Bont, T. Otsuki, S.L. Vargas, J. Gullam, B. Tapiero,
+R.T. Stein, F.P. Polack, H.J. Zar, N.B. Staerke, M. Duron Padilla, P.C. Richmond,
+  K. Koury, K. Schneider, E.V. Kalinina, D. Cooper, K.U. Jansen, A.S. Anderson,
+  K.A. Swanson, W.C. Gruber, and A. Gurtman, for the MATISSE Study Group*
+
+ABSTR ACT
+
+BACKGROUND                                                                               The authors' full names, academic de-
+Whether vaccination during pregnancy could reduce the burden of respiratory              grees, and affiliations are listed in the
+syncytial virus (RSV)-associated lower respiratory tract illness in newborns and         Appendix. Dr. Munjal can be contacted
+infants is uncertain.                                                                    at ­iona.­munjal@­pfizer.­com or at Vaccine
+                                                                                         Research and Development, Pfizer, 401
+METHODS                                                                                  N. Middletown Rd., Pearl River, NY 10965.
+In this phase 3, double-blind trial conducted in 18 countries, we randomly as-
+signed, in a 1:1 ratio, pregnant women at 24 through 36 weeks' gestation to receive      *The members of the MATISSE Study
+a single intramuscular injection of 120 g of a bivalent RSV prefusion F protein-          Group are listed in the Supplementary
+based (RSVpreF) vaccine or placebo. The two primary efficacy end points were              Appendix, available at NEJM.org.
+medically attended severe RSV-associated lower respiratory tract illness and medi-
+cally attended RSV-associated lower respiratory tract illness in infants within 90,      Drs. Kampmann, Madhi, and Munjal con-
+120, 150, and 180 days after birth. A lower boundary of the confidence interval          tributed equally to this article.
+for vaccine efficacy (99.5% confidence interval [CI] at 90 days; 97.58% CI at later
+intervals) greater than 20% was considered to meet the success criterion for vac-        This article was published on April 5,
+cine efficacy with respect to the primary end points.                                    2023, at NEJM.org.
+
+RESULTS                                                                                  DOI: 10.1056/NEJMoa2216480
+At this prespecified interim analysis, the success criterion for vaccine efficacy was    Copyright © 2023 Massachusetts Medical Society.
+met with respect to one primary end point. Overall, 3682 maternal participants re-
+ceived vaccine and 3676 received placebo; 3570 and 3558 infants, respectively, were
+evaluated. Medically attended severe lower respiratory tract illness occurred within 90
+days after birth in 6 infants of women in the vaccine group and 33 infants of women
+in the placebo group (vaccine efficacy, 81.8%; 99.5% CI, 40.6 to 96.3); 19 cases and
+62 cases, respectively, occurred within 180 days after birth (vaccine efficacy, 69.4%;
+97.58% CI, 44.3 to 84.1). Medically attended RSV-associated lower respiratory tract
+illness occurred within 90 days after birth in 24 infants of women in the vaccine
+group and 56 infants of women in the placebo group (vaccine efficacy, 57.1%; 99.5%
+CI, 14.7 to 79.8); these results did not meet the statistical success criterion. No
+safety signals were detected in maternal participants or in infants and toddlers up to
+24 months of age. The incidences of adverse events reported within 1 month after
+injection or within 1 month after birth were similar in the vaccine group (13.8% of
+women and 37.1% of infants) and the placebo group (13.1% and 34.5%, respectively).
+
+CONCLUSIONS
+RSVpreF vaccine administered during pregnancy was effective against medically
+attended severe RSV-associated lower respiratory tract illness in infants, and no
+safety concerns were identified. (Funded by Pfizer; MATISSE ClinicalTrials.gov
+number, NCT04424316.)
+
+n engl j med nejm.org                                                                                                           1
+
+                                                             The New England Journal of Medicine
+Downloaded from nejm.org at UNIVERSITEIT ANTWERPEN on April 11, 2023. For personal use only. No other uses without permission.
+
+                                          Copyright © 2023 Massachusetts Medical Society. All rights reserved.
+   The new england journal of medicine
+
+   Respiratory syncytial virus (RSV) is                    elicited neutralizing antibody responses that were
+            the most common cause of acute lower           efficiently transferred to infants. That trial pro-
+            respiratory tract illness and a leading        vided evidence of the efficacy of RSVpreF vaccine
+   cause of death in infants younger than 6 months         when administered to pregnant women to pre-
+   of age, particularly in low- and middle-income          vent RSV-associated lower respiratory tract ill-
+   countries.1-3 Severe RSV-associated lower respira-      ness in infants.25 Recently, an interim analysis of
+   tory tract illness peaks in the first 2 to 3 months     another phase 3 trial (RSV Vaccine Efficacy Study
+   of life, despite the presence of naturally acquired     in Older Adults Immunized against RSV Disease
+   maternal antibodies.1,4-7 RSV typically spreads         [RENOIR]) showed that active vaccination with
+   during winter epidemics in temperate climates           RSVpreF in persons who were at least 60 years of
+   and during rainy seasons in tropical regions,1          age prevented RSV-associated lower respiratory
+   although shifts in seasonality occurred during          tract illness.26 Here, we report the results of a
+   the coronavirus disease 2019 (Covid-19) pan-            phase 3 trial (Maternal Immunization Study for
+   demic.8,9 In a recent European study, approxi-          Safety and Efficacy [MATISSE]) evaluating the
+   mately 50% of hospitalizations for respiratory          efficacy and safety of maternal RSVpreF vaccina-
+   tract illness in children younger than 1 year of        tion in preventing RSV-associated lower respira-
+   age were associated with RSV, and approximate-          tory tract illness in infants.
+   ly 60% of these illnesses occurred in infants
+   younger than 3 months of age.10 In low-income                                Methods
+   countries, it is estimated that more than 80% of
+   RSV-attributable deaths do not occur in the hos-        Participants and Trial Oversight
+   pital.3
+                                                           This phase 3, double-blind, randomized, placebo-
+      Maternal vaccination leads to transplacental         controlled trial that was conducted in 18 coun-
+   transfer of increased levels of maternal antibod-       tries over four RSV seasons (two in the Northern
+   ies to provide protection in infants immediately        Hemisphere and two in the Southern Hemi-
+   after birth and during the first months of life.1,1116  sphere) evaluated the efficacy and safety of ma-
+   This strategy is used to protect infants from           ternal RSVpreF immunization against medically
+   tetanus, pertussis, severe acute respiratory syn-       attended RSV-associated lower respiratory tract
+   drome coronavirus 2 (SARS-CoV-2), and influ-            illness in infants followed for 1 to 2 years. Eli-
+   enza,11,17-19 although no vaccine has been licensed     gible participants were healthy women, 49 years
+   for use in pregnancy specifically to protect in-        of age or younger, at 24 through 36 weeks' ges-
+   fants from these diseases, other than influenza         tation on the day of planned injection, with an
+   in certain countries.20 RSV prefusion F protein-        uncomplicated, singleton pregnancy and no known
+   based vaccine (RSVpreF) administered during the         increased risk of pregnancy complications. Ad-
+   late second or third trimester of pregnancy may         ditional eligibility criteria and information re-
+   protect infants from severe RSV illness during          garding ethical trial conduct are provided in the
+   the first few months of life; this would be par-        Supplementary Appendix, available with the full
+   ticularly important in low- and middle-income           text of this article at NEJM.org. Further details
+   countries, where the burden of RSV-associated           are provided in the protocol (available at NEJM
+   lower respiratory tract illness is highest.3            .org). Eligible women were randomly assigned,
+                                                           in a 1:1 ratio, to receive a single intramuscular
+      Despite more than 50 years of development            injection of 120 g of RSVpreF vaccine (60 g
+   efforts,14 no RSV vaccine has been licensed. The        each of RSV A and RSV B antigens) or placebo.
+   prefusion form of the RSV fusion (F) glycopro-
+   tein (preF) is a major target of potent virus neu-         The protocol was approved by the ethics com-
+   tralizing antibodies and a key vaccine antigen.21,22    mittee at each site, and all the participants pro-
+   The investigational bivalent RSVpreF vaccine            vided written informed consent. The sponsor
+   contains stabilized preF glycoproteins from the         (Pfizer) designed and conducted the trial and
+   two main cocirculating antigenic subgroups              was responsible for data collection, analysis, and
+   (RSV A and RSV B).23,24 In a phase 2b, proof-of-        interpretation. The first draft of the manuscript
+   concept trial, RSVpreF vaccine administered to          was written by medical writers (paid by Pfizer)
+   women in the late second or third trimester of          under the direction of the authors. Pfizer manu-
+   pregnancy had an acceptable safety profile and          factured RSVpreF vaccine and placebo. All the
+
+2  n engl j med nejm.org
+
+                                                                The New England Journal of Medicine
+   Downloaded from nejm.org at UNIVERSITEIT ANTWERPEN on April 11, 2023. For personal use only. No other uses without permission.
+
+                                             Copyright © 2023 Massachusetts Medical Society. All rights reserved.
+Bivalent Prefusion F Vaccine in Pregnancy
+
+data were available to the authors. All the au-       electronic diary for 7 days after vaccination; sys-
+thors vouch for the accuracy and completeness         temic events at baseline (7 days before vacci-
+of the data and for the fidelity of the trial to the  nation) were also recorded. For each maternal
+protocol.                                             participant, including her fetus, data on adverse
+                                                      events were collected from the time of informed
+Efficacy End Points                                   consent to 1 month after injection, and data on
+The two primary efficacy end points were medi-        serious adverse events were collected from the
+cally attended severe RSV-associated lower respi-     time of informed consent through 6 months
+ratory tract illness and medically attended RSV-      after delivery.
+associated lower respiratory tract illness in
+infants within 90, 120, 150, and 180 days after          Safety end points in the infant participants
+birth. Secondary end points included medically        included adverse events from birth to 1 month
+attended RSV-associated lower respiratory tract       of age. Additional safety end points were serious
+illness, RSV-associated hospitalization, and medi-    adverse events and newly diagnosed chronic
+cally attended lower respiratory tract illness of     medical conditions from birth through 12 months
+any cause, all occurring within 360 days after        of age (birth through 24 months of age in in-
+birth. Exploratory end points included medically      fants enrolled during the first trial year).
+attended RSV-associated respiratory tract illness
+and medically attended RSV-associated lower              Adverse events of special interest were pre-
+respiratory tract illness due to RSV A or RSV B.      term birth or delivery (birth at <37 weeks' gesta-
+Table S1 in the Supplementary Appendix pro-           tion), low birth weight (2500 g), developmental
+vides further details regarding case definitions      delay (assessed according to the standard of
+and the role of the end-point adjudication com-       care), or a positive RT-PCR-based or antigen-
+mittee, which confirmed that each case met pre-       based SARS-CoV-2 test. Extremely preterm birth
+specified trial definition criteria, including        (<28 weeks' gestation), extremely low birth weight
+whether criteria were met in the subgroup of          (1000 g), and congenital anomalies were re-
+participants with medically attended severe RSV-      ported as serious adverse events.
+associated lower respiratory tract illness.
+                                                      Statistical Analysis
+   Surveillance for respiratory tract illness in
+infants started at 72 hours after birth and con-      The sample size was selected on the basis of the
+tinued through 12 months of age (24 months of         number of maternal participants needed in order
+age in those enrolled during the first trial year).   to accrue the prespecified number of cases of
+Nasal swabs for reverse-transcriptase-polymerase-     lower respiratory tract illness in infants. Vaccine
+chain-reaction (RT-PCR) assays were obtained at       efficacy with respect to either of the two pri-
+any medically attended visit for respiratory infec-   mary end points was sufficient to indicate trial
+tion. We conducted surveillance for medically         success. The evaluable population consisted of
+attended respiratory tract illnesses in infants       all infant participants who were eligible, were
+who were 6 months of age or younger through           born to the maternal participants who had re-
+weekly contact with the infants' parents or legal     ceived the randomly assigned vaccine or placebo
+guardians.                                            at least 14 days before delivery, did not receive
+                                                      palivizumab or another monoclonal antibody
+Safety End Points                                     targeting RSV, had no major protocol violations,
+The primary safety end points were reactogenic-       and had not received transfusions (of any blood
+ity and adverse events in the maternal partici-       products) of more than 20 ml per kilogram of
+pants and adverse events and newly diagnosed          body weight within 180 days after birth (Table
+chronic medical conditions in the infants. An         S2). The safety population consisted of all ma-
+external data monitoring committee was respon-        ternal participants who had undergone random-
+sible for ongoing safety data monitoring. We          ization and received vaccine or placebo and all
+observed maternal participants for at least 30        the infant participants who were born to those
+minutes after injection to detect acute reactions.    maternal participants. We calculated that 124
+Prespecified local reactions and systemic events,     cases of medically attended RSV-associated lower
+including fever, were recorded by means of an         respiratory tract illness occurring within 90 days
+                                                      after birth in the evaluable population would
+                                                      give the trial at least 90% power to reject the
+
+n engl j med nejm.org                                                                                                           3
+
+                                                             The New England Journal of Medicine
+Downloaded from nejm.org at UNIVERSITEIT ANTWERPEN on April 11, 2023. For personal use only. No other uses without permission.
+
+                                          Copyright © 2023 Massachusetts Medical Society. All rights reserved.
+   The new england journal of medicine
+
+   null hypothesis, if true vaccine efficacy against      Figure 1 (facing page). Enrollment, Randomization,
+   medically attended RSV-associated lower respi-         ­Administration of Vaccine or Placebo, and Follow-up.
+   ratory tract illness was assumed to be 60%.            Shown are data on maternal participants (Panel A) and
+                                                          infant participants (Panel B) at the data-cutoff date for
+      As prespecified in the protocol, the data           safety (September 2, 2022). Among infant participants
+   monitoring committee could conduct the first           who were enrolled from the maternal vaccine group dur-
+   interim analysis after the occurrence of at least      ing the first year of the trial, 1971 were enrolled with a
+   43 cases of medically attended RSV-associated          planned follow-up of 24 months and 1599 were enrolled
+   lower respiratory tract illness within 90 days         with a planned follow-up of 12 months. Trial comple-
+   after birth and the second interim analysis after      tion in infants refers to whether they completed 12 or
+   the occurrence of at least 62 cases. Analysis of       24 months of follow-up as assigned. One maternal par-
+   all the remaining efficacy end points could be         ticipant and 2 infant participants did not meet eligibility
+   conducted if the interim analysis showed that          criteria and were not included in the safety population.
+   the success criterion for vaccine efficacy with        Among infant participants who were enrolled from the
+   respect to either primary end point through 90         maternal placebo group during the first year of the trial,
+   days had been met. The type I error rate was           1967 were enrolled with a planned follow-up of 24 months
+   strongly controlled across the multiple primary        and 1591 were enrolled with a planned follow-up of 12
+   and secondary end points, with accounting for          months. The trial is ongoing; at the data-cutoff date,
+   the two interim analyses. The Supplementary            some participants had not yet completed planned follow-
+   Appendix provides further details on sample-           up visits. RSVpreF denotes respiratory syncytial virus
+   size determination, imputation of missing data,        prefusion F protein-based vaccine.
+   and additional statistical considerations.
+                                                        points. All observations after trial discontinua-
+      Vaccine efficacy, estimated with the use of       tion or protocol violation were censored. The
+   the binomial distribution of the number of cases     Supplementary Appendix provides further de-
+   of disease in the RSV vaccine group and given        tails on considerations for determination of vac-
+   the total number of cases in both groups,27 was      cine efficacy.
+   defined as (1-RR)×100, where RR is the rela-
+   tive risk of the end point of interest based on the     For analyses of the safety end points, point
+   incidence in the vaccine group as compared with      estimates and exact two-sided 95% confidence
+   the placebo group. A lower boundary of the con-      intervals (calculated with the use of the Clopper-
+   fidence interval that was greater than 20% was       Pearson method) were based on the percentage
+   considered to meet the success criterion for vac-    of participants reporting each event in each trial
+   cine efficacy with respect to the primary end        group. Event rates were considered to be similar
+   points, and a lower boundary of 0% was consid-       (i.e., no evidence of a difference) in the two
+   ered to meet the success criterion for vaccine       groups if the unadjusted 95% confidence inter-
+   efficacy with respect to the secondary end           val for the risk difference included zero. Adverse
+   points; these criteria were agreed on with regu-     events were coded with the use of the Medical
+   latory agencies and are typical of requirements      Dictionary for Regulatory Activities, version 25.0.
+   for some novel vaccines.                             Missing electronic diary data were not imputed.
+
+      The probability of primary-end-point cover-                             Results
+   age for confidence intervals was 99.5% at 90 days
+   (determined by means of an alpha-spending func-      Participants
+   tion and a Bonferroni procedure) and 97.58% at       From June 17, 2020, through October 2, 2022, a
+   later intervals (based on a two-sided alpha level    total of 7392 women underwent randomization
+   of 0.0483 and a Bonferroni procedure). Confi-        and 7358 received either RSVpreF vaccine (3682
+   dence intervals for the secondary end points         participants) or placebo (3676 participants). A
+   were adjusted with the use of the Bonferroni         total of 3578 women who received RSVpreF vac-
+   procedure and accounted for results with respect     cine and 3570 of those who received placebo had
+   to the primary end points. Exploratory efficacy      given birth and 2840 and 2843, respectively, had
+   end points had no prespecified success criterion     completed the trial at the time of this analysis
+   and are presented with unadjusted 95% confi-         (Fig. 1). Overall, 3570 infants born to mothers
+   dence intervals; these should not be used to draw    who had received RSVpreF vaccine and 3558
+   conclusions about vaccine efficacy for these end     born to those who had received placebo were
+
+4  n engl j med nejm.org
+
+                                                                The New England Journal of Medicine
+   Downloaded from nejm.org at UNIVERSITEIT ANTWERPEN on April 11, 2023. For personal use only. No other uses without permission.
+
+                                             Copyright © 2023 Massachusetts Medical Society. All rights reserved.
+       The New England Journal of Medicine                                                                                                                A Maternal Participants                                                                      B Infant Participants
+   Downloaded from nejm.org at UNIVERSITEIT ANTWERPEN on April 11, 2023. For personal use only. No other uses without permission.
+                                                                                                                                                                                         8046 Pregnant women underwent                                                        7128 Infants were enrolled after delivery
+Copyright © 2023 Massachusetts Medical Society. All rights reserved.                                                                                                                                    screening
+
+                                                                                                                                                                                         7392 Underwent randomization                                                             3570 Were enrolled from  3558 Were enrolled from
+                                                                                                                                                                                                                                                                                    the maternal RSVpreF     the maternal placebo
+                                                                                                                                                          3695 Were assigned to                     3697 Were assigned                                                                   vaccine group                group                                     Bivalent Prefusion F Vaccine in Pregnancy
+                                                                                                                                                          receive RSVpreF vaccine                    to receive placebo
+                                                                                                                                                                                                                                                       52 Withdrew before 1 mo                                                  60 Withdrew before 1 mo
+                                                                                                                                   n engl j med nejm.org  3682 Received injection                   3676 Received injection                                  after birth                                                              after birth
+
+                                                                                                                                                                                   3578 Gave birth  3570 Gave birth                                       25 Were withdrawn by                                                     22 Were withdrawn by
+                                                                                                                                                                                                                                                              parent or guardian                                                        parent or guardian
+                                                                                                                                                           29 Withdrew after vaccina-                                    31 Withdrew after vaccina-
+                                                                                                                                                               tion but before delivery                                      tion but before delivery     22 Were lost to follow-up                                                26 Were lost to follow-up
+                                                                                                                                                                                                                                                           2 Died                                                                    6 Died
+                                                                                                                                                             19 Withdrew                                                   19 Withdrew                     3 Had other reason                                                        6 Had other reason
+                                                                                                                                                              8 Were lost to follow-up                                     10 Were lost to follow-up
+                                                                                                                                                              2 Had other reason                                            2 Had other reason                                     3423 Completed 1-mo      3400 Completed 1-mo
+                                                                                                                                                          146 Withdrew after delivery                                   136 Withdrew after delivery                                        follow-up                follow-up
+                                                                                                                                                             51 Withdrew                                                   59 Withdrew
+                                                                                                                                                             82 Were lost to follow-up                                     68 Were lost to follow-up   92 Withdrew after 1 mo but                                               83 Withdrew after 1 mo but
+                                                                                                                                                              1 Died                                                        1 Had adverse event              before 6 mo after birth                                                  before 6 mo after birth
+                                                                                                                                                              1 Was no longer eligible                                      1 Had protocol deviation
+                                                                                                                                                              1 Was withdrawn by phy-                                       7 Had other reason            27 Were withdrawn by                                                     32 Were withdrawn by
+                                                                                                                                                                                                                                                              parent or guardian                                                        parent or guardian
+                                                                                                                                                                 sician
+                                                                                                                                                             10 Had other reason                                                                          54 Were lost to follow-up                                                36 Were lost to follow-up
+                                                                                                                                                                                                                                                           3 Died                                                                    5 Died
+                                                                                                                                                          2840 Completed the trial                  2843 Completed the trial                               8 Had other reason                                                      10 Had other reason
+                                                                                                                                                           667 Were in ongoing trial                 666 Were in ongoing trial
+                                                                                                                                                                                                                                                                                   2830 Completed 6-mo      2824 Completed 6-mo
+                                                                                                                                                                                                                                                                                           follow-up                follow-up
+
+                                                                                                                                                                                                                                                       41 Withdrew after 6 mo but                                               52 Withdrew after 6 mo but
+                                                                                                                                                                                                                                                             before 12 mo after birth                                                 before 12 mo after birth
+                                                                                                                                                                                                                                                           9 Were withdrawn by                                                       9 Were withdrawn by
+                                                                                                                                                                                                                                                              parent or guardian                                                        parent or guardian
+
+                                                                                                                                                                                                                                                          31 Were lost to follow-up                                                35 Were lost to follow-up
+                                                                                                                                                                                                                                                           1 Had other reason                                                        1 Died
+                                                                                                                                                                                                                                                                                                                                     7 Had other reason
+                                                                                                                                                                                                                                                                                   1631 Completed 12-mo
+                                                                                                                                                                                                                                                                                           follow-up       1616 Completed 12-mo
+                                                                                                                                                                                                                                                                                                                    follow-up
+                                                                                                                                                                                                                                                       36 Withdrew after 12 mo but
+                                                                                                                                                                                                                                                             before 24 mo after birth                                           34 Withdrew after 12 mo but
+                                                                                                                                                                                                                                                           3 Were withdrawn by                                                        before 24 mo after birth
+                                                                                                                                                                                                                                                              parent or guardian                                                     6 Were withdrawn by
+                                                                                                                                                                                                                                                                                                                                        parent or guardian
+                                                                                                                                                                                                                                                          30 Were lost to follow-up
+                                                                                                                                                                                                                                                           3 Had other reason                                                      25 Were lost to follow-up
+                                                                                                                                                                                                                                                                                                                                     3 Had other reason
+                                                                                                                                                                                                                                                                                     3 Completed 24-mo
+                                                                                                                                                                                                                                                                                           follow-up         3 Completed 24-mo
+                                                                                                                                                                                                                                                                                                                    follow-up
+
+                                                                                                                                                                                                                                                           6 Completed the trial                              12 Completed the trial
+                                                                                                                                                                                                                                                       3343 Were in ongoing trial                          3317 Were in ongoing trial
+
+                                                                                                                                   5
+   The new england journal of medicine
+
+   Table 1. Demographic and Clinical Characteristics of the Maternal and Infant Participants in the Safety Population.*
+
+   Characteristic                                               RSVpreF Vaccine         Placebo                                 Total
+
+   Maternal participants                                             29.1±5.6           29.0±5.7                              29.0±5.7
+   Age at injection -- yr                                           29 (16-45)         29 (14-47)                            29 (14-47)
+
+       Mean                                                          30.8±3.5           30.8±3.6                              30.8±3.5
+       Median (range)                                           31.3 (24.0-36.6)   31.3 (24.0-36.9)                      31.3 (24.0-36.9)
+   Gestation at injection -- wk
+       Mean                                                     2383/3682 (64.7)   2365/3675 (64.4)                      4748/7357 (64.5)
+       Median (range)                                            720/3682 (19.6)    723/3675 (19.7)                      1443/7357 (19.6)
+   Race or ethnic group -- no./total no. (%)                     454/3682 (12.3)    464/3675 (12.6)
+       White                                                       30/3682 (0.8)      21/3675 (0.6)                       918/7357 (12.5)
+       Black                                                       41/3682 (1.1)      45/3675 (1.2)                         51/7357 (0.7)
+       Asian                                                        7/3682 (0.2)       8/3675 (0.2)                         86/7357 (1.2)
+       Multiracial                                              1049/3682 (28.5)   1075/3675 (29.3)                         15/7357 (0.2)
+       Race not reported                                        2603/3682 (70.7)   2567/3675 (69.8)
+       Race unknown                                                38/3682 (1.0)      37/3675 (1.0)                      2124/7357 (28.9)
+       Hispanic or Latinx                                           9/3682 (0.2)      12/3675 (0.3)                      5170/7357 (70.3)
+       Not Hispanic or Latinx                                      30/3682 (0.8)      33/3675 (0.9)
+       American Indian or Alaska Native                                                                                     75/7357 (1.0)
+       Native Hawaiian or other Pacific Islander                1816/3568 (50.9)   1793/3558 (50.4)                         21/7357 (0.3)
+       Ethnic group not reported or unknown                     1752/3568 (49.1)   1765/3558 (49.6)                         63/7357 (0.9)
+   Infant participants
+   Sex -- no./total no. (%)                                         1/3568 (<0.1)      1/3558 (<0.1)                     3609/7126 (50.6)
+       Male                                                        20/3568 (0.6)      11/3558 (0.3)                      3517/7126 (49.4)
+       Female                                                    180/3568 (5.0)     157/3558 (4.4)
+   Gestational age at birth -- no./total no. (%)                3343/3568 (93.7)   3356/3558 (94.3)                          2/7126 (<0.1)
+       24 to <28 wk                                                21/3568 (0.6)      30/3558 (0.8)                         31/7126 (0.4)
+       28 to <34 wk                                                                                                       337/7126 (4.7)
+       34 to <37 wk                                                 8/3528 (0.2)       5/3517 (0.1)                      6699/7126 (94.0)
+       37 to <42 wk                                                29/3528 (0.8)      27/3517 (0.8)                         51/7126 (0.7)
+       42 wk                                                    3491/3528 (99.0)   3485/3517 (99.1)
+   Apgar score, 5 min                                                                                                       13/7045 (0.2)
+       <4 -- no./total no. (%)                                       9 (1-10)           9 (2-10)                            56/7045 (0.8)
+       4 to <7 -- no./total no. (%)                                                                                      6976/7045 (99.0)
+       7 to 10 -- no./total no. (%)                             3172/3568 (89.9)   3149/3558 (88.5)
+       Median (range)                                            174/3568 (4.9)     203/3558 (5.7)                            9 (1-10)
+   Outcome -- no./total no. (%)                                  219/3568 (6.1)     200/3558 (5.6)
+       Normal                                                       1/3568 (<0.1)                                        6321/7126 (88.7)
+       Congenital malformation or anomaly                           3/3568 (<0.1)      2/3558 (<0.1)                      377/7126 (5.3)
+       Other neonatal problems                                   177/3568 (5.0)        6/3558 (0.2)                       419/7126 (5.9)
+   Extremely low birth weight, 1000 g -- no./total no. (%)         12/3568 (0.3)    147/3558 (4.1)
+   Very low birth weight, >1000 to 1500 g -- no./total no. (%)                        10/3558 (0.3)                          3/7126 (<0.1)
+   Low birth weight, >1500 to 2500 g -- no./total no. (%)                                                                    9/7126 (0.1)
+   Developmental delay -- no./total no. (%)                                                                               324/7126 (4.5)
+                                                                                                                            22/7126 (0.3)
+
+*P lus-minus values are means ±SD. The safety population consisted of all the maternal participants who underwent randomization and re-
+  ceived vaccine or placebo and all their infants (except one maternal infant and two infant participants, who did not meet eligibility criteria).
+  Percentages may not total 100 because of rounding. RSVpreF denotes respiratory syncytial virus prefusion F protein-based vaccine.
+
+R ace or ethnic group was reported by the maternal participants.
+T his outcome was an adverse event of special interest reported at any time after birth during the trial period.
+
+6                                                               n engl j med nejm.org
+
+                                                                The New England Journal of Medicine
+   Downloaded from nejm.org at UNIVERSITEIT ANTWERPEN on April 11, 2023. For personal use only. No other uses without permission.
+
+                                             Copyright © 2023 Massachusetts Medical Society. All rights reserved.
+Bivalent Prefusion F Vaccine in Pregnancy
+
+evaluated. At the time of this analysis, data from   of the confidence interval >20%) for a decrease
+85% of the scheduled follow-up through 180 days      in the incidence of medically attended severe
+were available, with 1-month, 6-month, and           RSV-associated lower respiratory tract illness
+12-month follow-up completed by 6823 infants         among infants through 180 days after birth
+(96%), 5654 infants (79%), and 3247 infants          (Fig. 2A). Within 90 days after birth, 6 infants of
+(46%), respectively.                                 mothers in the vaccine group and 33 infants of
+                                                     those in the placebo group had medically attended
+   Demographic characteristics were broadly          severe RSV-associated lower respiratory tract ill-
+similar across the trial groups (Table 1), and the   ness (vaccine efficacy, 81.8%; 99.5% confidence
+trial participants were representative of the        interval [CI], 40.6 to 96.3); within 180 days after
+population at risk for RSV-related illness (Table    birth, there were 19 cases and 62 cases, respec-
+S3). Maternal participants were enrolled in 18       tively (vaccine efficacy, 69.4%; 97.58% CI, 44.3 to
+countries; the countries with the highest enroll-    84.1). In a sensitivity analysis (Table S5), we used
+ment were the United States (45%), South Africa      multiple imputation to examine the effect of
+(13%), Argentina (12%), and Japan (6%) (Table        missing laboratory (nasal swab) results under
+S4). Among the maternal participants, 64% were       various assumptions, some of which were unfa-
+White, 20% Black, and 12% Asian; 29% were            vorable to the vaccine. In each group, data were
+Hispanic or Latinx. At the time of injection, the    missing for 3 additional infants who would have
+median age of the women was 29 years (range,         qualified as having cases of medically attended
+14 to 47) and the median gestation was 31.3          severe RSV-associated lower respiratory tract ill-
+weeks (range, 24.0 to 36.9). Among the infant        ness within 90 days after birth. Imputation
+participants, 51% were male and 94% were born        showed that missing results had no effect on the
+at term (37 to <42 weeks). At the time of the        conclusions.
+analysis, adherence to the collection of nasal
+swabs at visits to assess for medically attended        Within 90 days after birth, 24 infants of
+respiratory tract illness was greater than 95%,      mothers in the vaccine group and 56 infants
+and in 927 of the 971 visits (including 794 cases    of those in the placebo group had medically at-
+of medically attended lower respiratory tract ill-   tended RSV-associated lower respiratory tract
+nesses of any cause within 180 days after birth),    illness (vaccine efficacy, 57.1%; 99.5% CI, 14.7 to
+infants met the criteria for medically attended      79.8). The statistical success criterion for this
+lower respiratory tract illness of any cause.        end point (lower boundary of the confidence
+                                                     interval >20%) was not met. Within 180 days
+Efficacy                                             after birth, 57 infants of mothers in the vaccine
+                                                     group and 117 infants of those in the placebo
+This prespecified interim analysis of efficacy       group had medically attended RSV-associated
+was conducted in October 2022. The data-cutoff       lower respiratory tract illness (vaccine efficacy,
+date for efficacy was September 30, and the data-    51.3%; 97.58% CI, 29.4 to 66.8) (Fig. 2B).
+cutoff date for safety was September 2. At this
+analysis, 80 evaluable cases of medically attended      When medically attended RSV-associated low-
+RSV-associated lower respiratory tract illness       er respiratory tract illness within cumulative in-
+within 90 days after birth had accrued (174          tervals beyond 180 days after birth was evaluated
+cases within 180 days), including 39 evaluable       as a secondary end point with a lower boundary
+cases of medically attended severe RSV-associated    of the confidence interval of 0%, the incidence
+lower respiratory tract illness within 90 days       of this illness was lower in the vaccine group
+after birth (81 cases within 180 days). The data     than in the placebo group at all time points
+monitoring committee recommended stopping            from 0 to 210 days and from 0 to 360 days after
+the trial for efficacy because the success criteri-  birth (Table S6). There were fewer cases of RSV-
+on for vaccine efficacy was met for one of the       associated hospitalization through 180 days of
+two primary efficacy end points. An earlier in-      age among infants of mothers in the vaccine
+terim analysis is described in the Supplementary     group than among those of mothers in the pla-
+Appendix.                                            cebo group (lower boundary of the confidence
+                                                     interval >0%). Vaccine efficacy was 67.7% (99.17%
+   On the basis of case accrual through the data-    CI, 15.9 to 89.5) with respect to RSV-associated
+cutoff date, the efficacy of RSVpreF vaccine met     hospitalization within 90 days after birth, and it
+the statistical success criterion (lower boundary
+
+n engl j med nejm.org                                                                                                           7
+
+                                                             The New England Journal of Medicine
+Downloaded from nejm.org at UNIVERSITEIT ANTWERPEN on April 11, 2023. For personal use only. No other uses without permission.
+
+                                          Copyright © 2023 Massachusetts Medical Society. All rights reserved.
+                                                    The new england journal of medicine
+
+   A Medically Attended Severe RSV-Associated Lower Respiratory Tract Illness
+
+                                          100.0                          RSVpreF
+                                                                          Vaccine
+                                                    Time Interval        (N = 3495)   Placebo           Vaccine Efficacy
+                                                                                     (N = 3480)      (99.5% or 97.58% CI)
+
+                                          3.0                            no. of cases (%)              %
+
+                Cumulative Incidence (%)            90 Days after birth  6 (0.2)     33 (0.9)        81.8 (40.6-96.3)
+                                                                                     46 (1.3)        73.9 (45.6-88.8)
+                                          2.5 120 Days after birth 12 (0.3)          55 (1.6)        70.9 (44.5-85.9)
+                                                                                     62 (1.8)        69.4 (44.3-84.1)
+                                                    150 Days after birth 16 (0.5)                                                Placebo
+
+                                          2.0 180 Days after birth 19 (0.5)
+
+                                          1.5
+
+                                          1.0
+
+                                                                                                                           RSVpreF vaccine
+
+                                          0.5
+
+                                          0.0       30                   60                      90       120               150   180
+                                              0
+                                                                                                                           2776  2749
+                                                                                     Days after Birth                      2867  2820
+
+   No. at Risk
+
+   Placebo                                3480      3292                 2973                  2899       2833
+
+   RSVpreF vaccine 3495                             3349                 3042                  2981       2916
+
+   B Medically Attended RSV-Associated Lower Respiratory Tract Illness
+
+                                          100                            RSVpreF      Placebo           Vaccine Efficacy
+                                                                          Vaccine    (N = 3480)      (99.5% or 97.58% CI)
+                                                    Time Interval        (N = 3495)
+                                             5                                                                    %
+                                                                         no. of cases (%)
+                                                                                                         57.1 (14.7-79.8)
+                Cumulative Incidence (%)           90 Days after birth 24 (0.7)       56 (1.6)           56.8 (31.2-73.5)             Placebo
+                                          4 120 Days after birth 35 (1.0)             81 (2.3)           52.5 (28.7-68.9)  RSVpreF vaccine
+                                                                                      99 (2.8)           51.3 (29.4-66.8)
+                                                  150 Days after birth 47 (1.3)      117 (3.4)
+                                                  180 Days after birth 57 (1.6)
+
+                                          3
+
+                                          2
+
+                                          1
+
+                                          0
+
+                                                 0  30                   60                      90       120               150   180
+
+                                                                                     Days after Birth                      2738  2700
+                                                                                                                           2845  2792
+   No. at Risk
+
+   Placebo                                3480      3288                 2964                  2879       2804
+
+   RSVpreF vaccine 3495                             3348                 3035                  2968       2898
+
+   was 56.8% (99.17% CI, 10.1 to 80.7) with respect                                  (95% CI, 16.7 to 55.7) within 90 days after birth
+   to RSV-associated hospitalization within 180 days                                 and 37.9% (95% CI, 24.0 to 49.5) within 180 days
+   after birth (Table S7). RSVpreF vaccination did                                   after birth (Table S9). Additional exploratory and
+   not prevent medically attended lower respiratory                                  sensitivity analyses are provided in Table S10.
+   tract illness from any cause within 90 days after
+   birth (vaccine efficacy, 7.0%; 99.17% CI, -22.3 to                                Safety
+   29.3) (Table S8). In an exploratory analysis, vac-                                Most reactogenicity events in maternal partici-
+   cine efficacy against medically attended RSV-                                     pants were mild to moderate in severity (Fig. 3).
+   associated respiratory tract illness was 39.1%                                    Local reactions were more commonly reported
+
+8                                                                        n engl j med nejm.org
+
+                                                                The New England Journal of Medicine
+   Downloaded from nejm.org at UNIVERSITEIT ANTWERPEN on April 11, 2023. For personal use only. No other uses without permission.
+
+                                             Copyright © 2023 Massachusetts Medical Society. All rights reserved.
+Bivalent Prefusion F Vaccine in Pregnancy
+
+  Figure 2 (facing page). Vaccine Efficacy.                       The percentages of maternal participants with
+                                                               any adverse events reported within 1 month af-
+  Panel A shows vaccine efficacy with respect to medically     ter injection were similar in the vaccine group
+  attended severe RSV-associated lower respiratory tract       (13.8%) and the placebo group (13.1%) (Fig. 4A
+  illness and Panel B shows vaccine efficacy with respect      and Table S11). The percentages of infant par-
+  to medically attended RSV-associated lower respiratory       ticipants with any adverse events reported within
+  tract illness occurring within 180 days after birth in in-   1 month after birth were 37.1% in the vaccine
+  fant participants. Data are for the evaluable efficacy pop-  group and 34.5% in the placebo group (Fig. 4A
+  ulation. Cases of RSV-associated illness of any severity     and Table S12). Among the infant participants,
+  were confirmed by the end-point adjudication commit-         the incidences of adverse events of special inter-
+  tee. Vaccine efficacy was calculated as 1-(P/[1-P]),         est (Fig. 4B) and newly diagnosed chronic medi-
+  where P is the number of cases of illness in the RSVpreF     cal conditions (Fig. S1) were similar in the two
+  group divided by the total number of cases of illness.       groups. Among maternal participants, the inci-
+  At 90 days, we used 99.5% confidence intervals (CIs)         dences of serious adverse events through 6 months
+  (determined by the alpha-spending function and ad-           after injection were similar in the two groups;
+  justed with the use of the Bonferroni procedure), and        the most frequent were preeclampsia (in 1.8% of
+  at later intervals, we used 97.58% CIs (based on a two-      participants in the vaccine group and 1.4% of
+  sided alpha level of 0.0483 adjusted with the use of the     those in the placebo group) and fetal distress
+  Bonferroni procedure). The criterion for vaccine efficacy    syndrome (in 1.8% and 1.6%, respectively)
+  with respect to the primary end points was a lower           (Fig. 4C and Table S13). The incidences of pre-
+  boundary of the confidence interval greater than 20%.        mature delivery were similar in the two groups
+  Infants were considered to have medically attended           (28 cases [0.8%] in the vaccine group and 23
+  RSV-associated lower respiratory tract illness if they       cases [0.6%] in the placebo group). Serious ad-
+  had a medically attended visit for a respiratory tract       verse events in four RSVpreF vaccine recipients
+  ­illness and a reverse-transcriptase-polymerase-chain-       (pain in an arm followed by bilateral lower-ex-
+  reaction assay or nucleic acid amplification test that       tremity pain, premature labor, systemic lupus
+  was positive for RSV, as well as fast breathing (respira-    erythematosus, and eclampsia -- in one recipi-
+  tory rate 60 breaths per minute in infants <2 months         ent each) and in one placebo recipient (prema-
+  of age [<60 days of age], 50 breaths per minute in in-       ture placental separation) were assessed by the
+  fants 2 to <12 months of age, or 40 breaths per min-         investigator as being related to the injection. The
+  ute in infants 12 to 24 months of age), oxygen satura-       incidence of reported serious adverse events in
+  tion as measured by pulse oximetry (SpO2) of less than       infants from birth through 24 months was
+  95%, or chest wall indrawing. Infants were considered        similar in the two groups (Fig. 4C and Table
+  to have medically attended severe RSV-associated lower       S14). No serious adverse events in infants were
+  respiratory tract illness if they had a medically attended   considered by the investigators to be related to
+  visit for a respiratory tract illness and an RSV-positive    the vaccine.
+  test, as well as very fast breathing (respiratory rate 70
+  breaths per minute in infants <2 months of age [<60 days        One recipient of RSVpreF vaccine died from
+  of age], 60 breaths per minute in infants 2 to <12 months    postpartum hemorrhage and hypovolemic shock.
+  of age, or 50 breaths per minute in infants 12 to 24         During the trial, stillbirth occurred in 10 par-
+  months of age), SpO2 of less than 93%, use of a high-        ticipants in the vaccine group and 8 participants
+  flow nasal cannula or mechanical ventilation, admis-         in the placebo group, and spontaneous abortion
+  sion to an intensive care unit for more than 4 hours,        during a subsequent pregnancy occurred in 1 par-
+  or lack of response or unconsciousness. Each square          ticipant in the vaccine group and 2 participants
+  or circle represents one case of illness.                    in the placebo group. A total of 17 deaths in
+                                                               infants and toddlers from birth through 24
+in recipients of the RSVpreF vaccine than in re-               months of age were reported (5 in the vaccine
+cipients of placebo; the most common was injec-                group [0.1%] and 12 in the placebo group
+tion-site pain (in 41% of participants in the                  [0.3%]) (Table S15). One death that was consid-
+vaccine group and 10% of those in the placebo                  ered by the end-point adjudication committee to
+group) (Fig. 3A). The percentages of maternal                  be associated with RSV infection occurred 120
+participants who reported systemic events with-                days after birth in an infant whose mother had
+in 7 days after injection were similar in the two              received placebo.
+groups, apart from muscle pain and headache,
+which were reported more frequently by recipi-
+ents of the vaccine (muscle pain in 27% of the
+vaccine recipients vs. 17% of the placebo recipi-
+ents, and headache in 31% vs. 28%, respectively)
+(Fig. 3B).
+
+n engl j med nejm.org                                                                                                           9
+
+                                                             The New England Journal of Medicine
+Downloaded from nejm.org at UNIVERSITEIT ANTWERPEN on April 11, 2023. For personal use only. No other uses without permission.
+
+                                          Copyright © 2023 Massachusetts Medical Society. All rights reserved.
+                                                      The new england journal of medicine
+
+         Severity:     Mild Moderate Severe            Grade 4                                              >40.0°C   Figure 3. Local Reactions and Systemic Events
+    Temperature:       38.0-38.4°C >38.4-38.9°C       >38.9-40.0°C                                           10       in the Maternal Participants.
+
+A Local Reactions                                                 41                                                  Panel A shows local reactions within 7 days after injec-
+                                                                                                                      tion, and Panel B shows systemic events, including fe-
+    Percentage of Maternal Participants100                                                                            ver, before and within 7 days after injection (in 3637 to
+                    RSVpreF                                                                                           3663 participants in the vaccine group and in 3621 to
+                       vaccine90                                                                                      3639 participants in the placebo group). Data are from
+                                  Placebo                                                                             the safety population. Severity and fever scales are
+                                                     RSVpreF80                                                        summarized in Table S16. I bars denote 95% confi-
+                                                        vaccine                                                       dence intervals.
+                                                                    Placebo70
+                                                                                      RSVpreF                         Figure 4 (facing page). Adverse Events in the Maternal
+                                                                                         vaccine60                    and Infant Participants.
+                                                                                                     Placebo
+    50                                                                                                                Panel A shows the percentages of participants who re-
+                                                                                                                      ported at least one adverse event, according to category,
+    40                                                                                                                within 1 month after injection (maternal participants)
+                                                                                                                      or at least 1 month after birth (infant participants).
+    30                                                                                                                Any event was defined as at least one occurrence in
+                                                                                                                      any category. An immediate adverse event was defined
+    20                                                                                                                as any adverse event that occurred within 30 minutes
+                                                                                                                      after injection. Severe and life-threatening adverse
+    10              7                6                                                                                events according to system organ class and preferred
+                                                 <1                                                                   term are summarized in Table S17 (events in maternal
+    0 <1                                                                                                              participants) and Table S18 (events in infant partici-
+                                                                                                                      pants). Related adverse events were assessed by the
+                    Redness          Swelling         Injection-Site Pain                                             investigator as being related to the vaccine or placebo.
+                                                                                                                      Exact two-sided 95% confidence intervals were calcu-
+B Systemic Events                                                                                                     lated with the use of the Clopper-Pearson method. I
+                                                                                                                      bars denote 95% confidence intervals. Panel B shows
+    100                                      Before Injection                                                         adverse events of special interest (occurring in >0.1%
+     90                                                                                                               of participants in either group) from injection through
+     80                47 46                                                                                          6 months after delivery in maternal participants and
+     70                            19 20 18 20 21 21 14 14 10 9                                                       from birth through 24 months of age in infant partici-
+    Percentage of Maternal Participants60                                                                   77        pants. All congenital anomalies were reported as seri-
+                 RSVpreF vaccine50                                                                                    ous adverse events by definition. Low birth weight was
+     40                                                                                                               defined as greater than 1500 g to 2500 g. Prematurity
+                      Placebo30                                                                                       in infants was defined as birth before 37 weeks' gesta-
+                            RSVpreF vaccine20                                                                         tion. SARS-CoV-2 denotes severe acute respiratory syn-
+     10                                                                                                               drome coronavirus 2. In Panels B and C, error bars de-
+                                Placebo0 NA                                                                           note 95% confidence intervals. Panel C shows the most
+                                        RSVpreF vaccine                                                               commonly reported serious adverse events (occurring
+                                                                                                                      in >0.4% of participants in either group) from injection
+                                             Placebo                                                                  through 6 months after delivery in maternal partici-
+                                                     RSVpreF vaccine                                                  pants and from birth through 24 months of age in in-
+                                                                                                                      fant participants. The duration from injection to deliv-
+                                                          Placebo                                                     ery among preterm deliveries is shown in Table S19.
+                                                                 RSVpreF vaccine                                      Data are from the maternal and infant safety popula-
+                                                                                                                      tions. The data-cutoff date was September 2, 2022.
+                                                                      Placebo                                         The only adverse events that were considered by the
+                                                                             RSVpreF vaccine                          investigator to be related to the RSVpreF vaccine and
+                                                                                                                      that were reported in more than one maternal recipi-
+                                                                                  Placebo                             ent in either group were lymphadenopathy and injec-
+                                                                                         RSVpreF vaccine              tion-site bruising (each reported in two RSVpreF recip-
+                                                                                                                      ients [<0.1%]). One adverse event (<0.1%) (prematurity)
+                                                                                              Placebo                 in an infant was considered by the investigator to be
+                                                                                                     RSVpreF vaccine  related to maternal RSVpreF vaccination. This event
+                                                                                                                      occurred 86 days after maternal vaccination at a gesta-
+                                                                                                          Placebo     tional age at birth of 36 weeks and 4 days.
+
+         Fever Fatigue Headache Nausea Muscle Joint Vomiting Diarrhea
+                                                      Pain Pain
+
+    100                              After Injection
+    Percentage of Maternal Participants
+                 RSVpreF vaccine90
+
+                      Placebo80
+                            RSVpreF vaccine
+    70
+                                Placebo
+                                        RSVpreF vaccine60
+
+                                             Placebo5046 44
+                                                     RSVpreF vaccine
+    40                        31 28         27
+                                                          Placebo17
+    30                                                           RSVpreF vaccine20 19
+
+    20                                                                Placebo12 1187                        11 12
+                                                                             RSVpreF vaccine
+    10 3 3
+     0                                                                            Placebo
+                                                                                         RSVpreF vaccine
+
+                                                                                              Placebo
+                                                                                                     RSVpreF vaccine
+
+                                                                                                          Placebo
+
+         Fever Fatigue Headache Nausea Muscle Joint Vomiting Diarrhea
+                                                      Pain Pain
+
+10                                                                    n engl j med nejm.org
+
+                                                                 The New England Journal of Medicine
+    Downloaded from nejm.org at UNIVERSITEIT ANTWERPEN on April 11, 2023. For personal use only. No other uses without permission.
+
+                                              Copyright © 2023 Massachusetts Medical Society. All rights reserved.
+                                            Bivalent Prefusion F Vaccine in Pregnancy
+
+A Adverse Events                                                                          Maternal Participants
+
+      100                                                                      RSVpreF vaccine (N=3682)       Placebo (N=3675)
+
+       80
+
+                            60
+
+                            40
+
+Percentage of Participants  20 13.8 13.1    4.2 3.7                   <0.1 <0.1     1.7 1.3                   0.5 0.3           0.4 0.2               2.7 2.5             00
+                             0              Serious                                                                                                Special interest
+                                                                      Immediate     Severe                    Life-threatening  Related to                              Leading to
+                                       Any                                                                                       vaccine                                withdrawal
+
+                                                                                                                                or placebo
+
+                                                                               Adverse Event within 1 Month after Injection
+
+                            100                                                           Infant Participants
+
+                                                                               RSVpreF vaccine (N=3568)       Placebo (N=3558)
+
+                            80
+
+                            60              15.5 15.2                 4.5 3.8    1.0 1.0                      8.4 7.2            4.8 5.9
+                            40 37.1 34.5     Serious                   Severe
+                            20                                                               <0.1 0                             Congenital              0.2 0.2           00
+                             0                                                                                                   anomaly
+                                                                               Life-threatening Related to Special interest                        Newly diagnosed      Leading to
+                                       Any                                                               vaccine                                   chronic medical      withdrawal
+
+                                                                                                       or placebo                                      condition
+
+                                                                                  Adverse Event within 1 Month after Birth
+
+B Adverse Events of Special Interest                                                                          Placebo (maternal participants, N=3675; infant participants, N=3558)
+                                                                                                                    Developmental Delay
+     RSVpreF vaccine (maternal participants, N=3682; infant participants, N=3568)                                        Low Birth Weight
+
+                      Premature Delivery                                                                      SARS-CoV-2 Test Positive
+              SARS-CoV-2 Test Positive                                                                                          Prematurity
+                                                                                                                                                 0 1 2 3 4 5 6 7 8 9 10
+                                                  0 1 2 3 4 5 6 7 8 9 10                                                                           Percentage of Infant Participants
+                                                 Percentage of Maternal Participants
+
+C Serious Adverse Events
+
+RSVpreF vaccine (maternal participants, N=3682; infant participants, N=3568) Placebo (maternal participants, N=3675; infant participants, N=3558)
+
+                                            Prolonged Labor                                                   Newborn Transient Tachypnea
+
+                            Premature Separation of Placenta                                                             Respiratory Distress
+                                             Premature Delivery                                                                    Prematurity
+                                                     Preeclampsia
+                                                                                                                            Low Birth Weight
+                                      Postpartum Hemorrhage                                                                Neonatal Jaundice
+                                                Oligohydramnios
+                                                                                                                                Hypoglycemia
+                                     Gestational Hypertension                                                                 Neonatal Sepsis
+                                       Fetal Distress Syndrome                                                Neonatal Hyperbilirubinemia
+                                  Cephalopelvic Disproportion                                                             Atrial Septal Defect
+                                                                                                                   Ventricular Septal Defect
+                                                   Arrested Labor
+                                            Nonreassuring Fetal
+
+                                              Heart Rate Pattern
+
+                                                                   0  1          2                         3                                    0  1                 2                3
+
+                                                                      Percentage of Maternal Participants                                          Percentage of Infant Participants
+
+                                                                      n engl j med nejm.org                                                                                           11
+
+                                                             The New England Journal of Medicine
+Downloaded from nejm.org at UNIVERSITEIT ANTWERPEN on April 11, 2023. For personal use only. No other uses without permission.
+
+                                          Copyright © 2023 Massachusetts Medical Society. All rights reserved.
+    The new england journal of medicine
+
+                       Discussion                         met the efficacy criterion (the lower boundary of
+                                                          the confidence interval was >0% rather than
+    In this worldwide, phase 3 trial, maternal vac-       >20%). RSVpreF vaccine also met the efficacy
+    cination with RSVpreF was efficacious in prevent-     criterion for hospitalization through 180 days
+    ing medically attended severe RSV-associated          after birth (the lower boundary of the confi-
+    lower respiratory tract illness in infants, with      dence interval was >0%). Alongside reduction in
+    vaccine efficacy of 81.8% (99.5% CI, 40.6 to          medically attended RSV-associated respiratory
+    96.3) within 90 days after birth and 69.4%            tract illness through 180 days after birth, these
+    (97.58% CI, 44.3 to 84.1) within 180 days after       results indicate protection of RSVpreF vaccine
+    birth. The success criterion for vaccine efficacy     across the spectrum of RSV illness severity. This
+    was met for this primary end point.                   finding is consistent with the preliminary effi-
+                                                          cacy reported in a phase 2b trial of RSVpreF
+       RSV-associated lower respiratory tract illness     vaccination in pregnant women.25
+    in young infants is associated with a high bur-
+    den of illness and death across countries and            RSVpreF is a maternal vaccine with efficacy
+    health systems, especially in low- and middle-        against RSV-associated lower respiratory tract
+    income countries.3,28 In a phase 3 trial, injection   illness in infants; a previous phase 3 trial of
+    with nirsevimab, a monoclonal antibody, pro-          maternal vaccination with an investigational re-
+    tected infants from medically attended RSV-as-        combinant RSV F vaccine that was not stabilized
+    sociated lower respiratory tract infection through    in the prefusion conformation did not meet the
+    150 days after the injection (the primary end         prespecified success criterion with respect to the
+    point), with efficacy of 74.5% (95% CI, 49.6 to       primary end point of RSV-associated, medically
+    87.1).29 Nirsevimab was recently authorized in        significant lower respiratory tract illness within
+    Europe for use in infants from the time of birth      90 days after birth (vaccine efficacy, 39.4%;
+    during the RSV season,30 although its affordabil-     97.52% CI, -1.0 to 63.7).36 However, the incidence
+    ity in low- and middle-income countries is un-        of hospitalization for RSV-associated lower re-
+    certain.31 In other regions, the use of monoclo-      spiratory tract illness (a secondary end point)
+    nal antibodies is limited to high-risk populations,   was lower in the vaccine group than in the pla-
+    and no therapeutic options other than support-        cebo group (vaccine efficacy, 44.4%; 95% CI,
+    ive care exist.32,33                                  19.6 to 61.5).
+
+       In addition, vaccination offers the possibility       On the basis of our efficacy criteria, there
+    of an immune response to multiple neutralizing        was no evidence that RSVpreF vaccination pre-
+    epitopes, thus reducing the risk of immune es-        vented medically attended lower respiratory tract
+    cape observed with some monoclonal antibod-           illness from any cause within 90 days after birth
+    ies.34 Passive transfer of maternal antibodies can    (vaccine efficacy, 7.0%; 99.17% CI, -22.3 to 29.3).
+    protect the youngest and most vulnerable infants      In our trial, which was conducted during the
+    immediately after birth, before effective immune      Covid-19 pandemic, medically attended RSV-asso-
+    responses can be elicited from active vaccination     ciated lower respiratory tract illness within 180
+    in infants.35 In our trial, the youngest infant with  days after birth constituted only 22% of medi-
+    medically attended severe RSV-associated lower        cally attended lower respiratory tract illness due
+    respiratory tract illness was 8 days of age, a find-  to any cause in the same period (174 of 794
+    ing that highlights that RSV prevention is needed     cases). In contrast, in prepandemic studies of
+    to protect young infants from birth through the       lower respiratory tract illness, RSV was the most
+    period of greatest vulnerability.1,4,7,12,17          common individual pathogen in areas where
+                                                          pneumococcal conjugate vaccines were used,
+       For the second primary end point of medi-          and it was responsible for 50 to 80% of hospital-
+    cally attended RSV-associated lower respiratory       izations for bronchiolitis and 40% of cases of
+    tract illness within 90 days after birth, the crite-  pneumonia among children younger than 1 year
+    rion for vaccine efficacy was not met (the lower      of age.37,38
+    boundary of the 99.5% CI was 14.7%, so it was
+    not >20%). For the secondary end point of medi-          The safety and side-effect profiles of RSVpreF
+    cally attended RSV-associated lower respiratory       vaccine in maternal participants were consistent
+    tract illness through 360 days, RSVpreF vaccine       with those in previous phase 1-2 clinical studies
+
+12  n engl j med nejm.org
+
+                                                                 The New England Journal of Medicine
+    Downloaded from nejm.org at UNIVERSITEIT ANTWERPEN on April 11, 2023. For personal use only. No other uses without permission.
+
+                                              Copyright © 2023 Massachusetts Medical Society. All rights reserved.
+Bivalent Prefusion F Vaccine in Pregnancy
+
+involving adults,23,26,39,40 with mostly mild-to-    RSV-associated lower respiratory tract illness and
+moderate reactogenicity and adverse-event and
+serious-adverse-event profiles that were similar     RSV-associated hospitalization in infants through
+to those of placebo. It is reassuring that no
+safety concerns were detected in the infants or      6 months of age.
+mothers in this trial, although the number of
+participants was small. An analysis of the final        Supported by Pfizer.
+trial data, including the totality of safety data       Disclosure forms provided by the authors are available with
+and analyses according to country, is under way.     the full text of this article at NEJM.org.
+                                                        A data sharing statement provided by the authors is available
+   One limitation of our trial was the exclusion     with the full text of this article at NEJM.org.
+of women with high-risk pregnancies such as             We thank Sheena Hunt, Tricia Newell, and Erin O'Keefe, of
+those with a current risk of preterm birth, mul-     ICON (Blue Bell, PA), who wrote the first draft of the manu-
+tiple pregnancy, or a previous infant with a         script under direction from the authors; all the participants who
+clinically significant congenital anomaly. Off-      volunteered for this trial; all the trial site personnel for their
+spring of these women could be at higher risk        contributions; members of the data monitoring committee for
+for severe RSV-associated illness.41 Further limi-   review of the trial safety data: Flor Muñoz (chair), Kim Fortner,
+tations of our trial include limited data from       Tina Hartert, R. Phillips Heine, Lawrence Moulton, and Jona-
+low-income countries where the vaccine is likely     than Zenilman; members of the end-point adjudication commit-
+to have the greatest effect. In addition, the trial  tee: Kathryn Edwards (chair), Xavier Carbonell-Estrany, Hayley
+was insufficiently powered to assess differences     Gans, Mitchell Goldstein, W. Charles Huskins, Peter Moschovis,
+in vaccine efficacy according to RSV antigen         and Chadi El Saleeby; the following Pfizer colleagues for their
+subgroup.                                            contributions: Alieu Adams, Negar Aliabadi, Janille Bunney,
+                                                     Adriana M. Cahill, Bina Chandran, Dhawal Chelani, Kristen
+   RSVpreF vaccine had a favorable safety profile    Friedman, Julie Fryburg, Jeffrey Immitt, Marinela Ingilizova,
+and efficacy against medically attended severe       Anna Jaques, Sian Jones, Maddalena Lino, Susan Macera, Steph-
+                                                     anie McGrory, Ana Mali, Rabia Malick, Michelle McLean, Nir-
+                                                     vana Moodley, Dharti H. Patel, Michael Patton, Elizabeth Paulu-
+                                                     konis, Loredana Popia, Fuminori Sakai, Uzma Sarwar, Adrienne
+                                                     Scott, Yasuko Shoji, Michelle Spindler, Catherine Stewart, Pat-
+                                                     rick Sturges, Sarah Tweedy, Xiaojing Wang, and Bo Yule; the
+                                                     Vaccine Research Development sample management team; and
+                                                     all the Pfizer colleagues not named here who contributed to the
+                                                     success of this trial.
+
+                                                                           Appendix
+
+The authors' full names and academic degrees are as follows: Beate Kampmann, M.D., Ph.D., Shabir A. Madhi, M.B., B.Ch., Ph.D.,
+Iona Munjal, M.D., Eric A.F. Simões, M.D., Barbara A. Pahud, M.D., M.P.H., Conrado Llapur, M.D., Jeffrey Baker, M.D., Gonzalo
+Pérez Marc, M.D., David Radley, M.S., Emma Shittu, Ph.D., Julia Glanternik, M.D., Hasra Snaggs, M.D., James Baber, M.B., Ch.B.,
+M.P.H., Philip Zachariah, M.D., Shaun L. Barnabas, M.B., Ch.B., Ph.D., Merlin Fausett, M.D., Tyler Adam, M.D., Nicole Perreras, M.D.,
+Marlies A. Van Houten, M.D., Ph.D., Anu Kantele, M.D., Ph.D., LiMin Huang, M.D., Ph.D., Louis J. Bont, M.D., Ph.D., Takeo Otsuki,
+M.D., Ph.D., Sergio L. Vargas, M.D., Joanna Gullam, M.B., Ch.B., M.D., Bruce Tapiero, M.D., Renato T. Stein, M.D., Fernando P. Po-
+lack, M.D., Heather J. Zar, M.B., B.Ch., Ph.D., Nina B. Staerke, M.D., Ph.D., María Duron Padilla, M.D., Peter C. Richmond, M.B., B.S.,
+Kenneth Koury, Ph.D., Katherine Schneider, Ph.D., Elena V. Kalinina, Ph.D., David Cooper, Ph.D., Kathrin U. Jansen, Ph.D., Annaliesa
+S. Anderson, Ph.D., Kena A. Swanson, Ph.D., William C. Gruber, M.D., and Alejandra Gurtman, M.D.
+
+   The authors' affiliations are as follows: the Medical Research Council Unit the Gambia, London School of Hygiene and Tropical
+Medicine, Fajara, Gambia (B.K.); the Institute for International Health Charité, Universitätsmedizin, Berlin (B.K.); the South African
+Medical Research Council (MRC) Vaccines and Infectious Diseases Analytics Research Unit, Infectious Diseases and Oncology Research
+Institute, Faculty of Health Sciences, University of the Witwatersrand, Johannesburg (S.A.M.), and Family Centre for Research with
+Ubuntu, Department of Paediatrics and Child Health, University of Stellenbosch (S.L.B.), and the Department of Paediatrics and Child
+Health, Red Cross War Memorial Children's Hospital, South African MRC Unit on Child and Adolescent Health, University of Cape
+Town (H.J.Z.), Cape Town -- all in South Africa; Vaccine Research and Development, Pfizer, Pearl River, NY (I.M., B.A.P., D.R., J.
+Glanternik, H.S., P.Z., K.K., K.S., E.V.K., D.C., K.U.J., A.S.A., K.A.S., W.C.G., A.G.); Children's Hospital Colorado, Aurora (E.A.F.S.);
+Instituto de Maternidad y Ginecología Nuestra Señora de Las Mercedes, San Miguel de Tucumán (C.L.), and iTrials-Hospital Militar
+Central (G.P.M., F.P.P.) and iTrials (S.L.V.), Buenos Aires -- all in Argentina; Clinical Research Prime, Idaho Falls, ID (J. Baker); Vaccine
+Research and Development, Pfizer, Hurley, United Kingdom (E.S.); Vaccine Clinical Research, Pfizer, Sydney, NSW (J. Baber), and the
+University of Western Australia School of Medicine, Vaccine Trials Group, Wesfarmers Centre of Vaccines and Infectious Diseases,
+Telethon Kids Institute, and Perth Children's Hospital, Nedlands, WA (P.C.R.) -- all in Australia; Boeson Research, Missoula, MT
+(M.F.); Meridian Clinical Research, Hastings, NE (T.A.); Asian Hospital and Medical Center, Manila, Philippines (N.P.); the Department
+of Pediatrics, Spaarne Gasthuis, Haarlem and Hoofddorp (M.A.V.H.), and the Departments of Pediatrics and Immunology, University
+Medical Center Utrecht, Utrecht University, Utrecht, and Respiratory Syncytial Virus Network Foundation, Zeist (L.J.B.) -- all in the
+Netherlands; Meilahti Vaccine Research Center, Inflammation Center, University of Helsinki and Helsinki University Hospital, Helsinki
+(A.K.); National Taiwan University Hospital, Taipei (L.-M.H.); the Department of Obstetrics and Gynecology, Sendai City Hospital,
+Sendai, Japan (T.O.); the Institute of Biomedical Sciences, University of Chile School of Medicine, Santiago, Chile (S.L.V.); University of
+Otago and New Zealand Clinical Research -- both in Christchurch, New Zealand (J. Gullam); Centre Hospitalier Universitaire Sainte-
+Justine, Montreal (B.T.); Hospital Moinhos de Vento and Pontifícia Universidade Católica do Rio Grande do Sul -- both in Porto Alegre,
+Brazil (R.T.S.); the Department of Infectious Diseases, Aarhus University Hospital, Aarhus, Denmark (N.B.S.); and Arké Study Manage-
+ment Organization, Mexico City (M.D.P.).
+
+n engl j med nejm.org                                                                                                                          13
+
+                                                             The New England Journal of Medicine
+Downloaded from nejm.org at UNIVERSITEIT ANTWERPEN on April 11, 2023. For personal use only. No other uses without permission.
+
+                                          Copyright © 2023 Massachusetts Medical Society. All rights reserved.
+    The new england journal of medicine
+
+    References                                   maternal IgG in infants in Kilifi Kenya.      and sample size for vaccine efficacy stud-
+                                                 PLoS One 2009;4(12):e8088.                    ies. Commun Stat Theory Methods 1998;
+    1. Hall CB, Simoes EA, Anderson LJ.          13. Chu HY, Steinhoff MC, Magaret A, et al.   27:1305-22.
+    Clinical and epidemiologic features of re-   Respiratory syncytial virus transplacental    28. Chirikov VV, Simões EAF, Kuznik A,
+    spiratory syncytial virus. In:Anderson LJ,   antibody transfer and kinetics in mother-     Kwon Y, Botteman M. Economic-burden
+    Graham BS, eds. Challenges and oppor-        infant pairs in Bangladesh. J Infect Dis      trajectories in commercially insured US
+    tunities for respiratory syncytial virus     2014;210:1582-9.                              infants with respiratory syncytial virus
+    vaccines. New York:Springer:2013:39-         14. Boyoglu-Barnum S, Chirkova T, An-         infection. J Infect Dis 2020;221:1244-55.
+    57.                                          derson LJ. Biology of infection and dis-      29. Hammitt LL, Dagan R, Yuan Y, et al.
+    2. Matias G, Taylor R, Haguinet F,           ease pathogenesis to guide RSV vaccine        Nirsevimab for prevention of RSV in
+    Schuck-Paim C, Lustig R, Shinde V. Esti-     development. Front Immunol 2019;10:           healthy late-preterm and term infants.
+    mates of hospitalization attributable to     1675.                                         N Engl J Med 2022;386:837-46.
+    influenza and RSV in the US during 1997-     15. Munoz FM, Piedra PA, Glezen WP.           30. European Medicines Agency. Beyfor-
+    2009, by age and risk status. BMC Public     Safety and immunogenicity of respiratory      tus (nirsevimab). 2023 (https://www.­ema
+    Health 2017;17:271.                          syncytial virus purified fusion protein-2     .­europa.­eu/e­ n/d­ ocuments/o­ verview/
+    3. Li Y, Wang X, Blau DM, et al. Global,     vaccine in pregnant women. Vaccine 2003;      ­beyfortus-­epar-­medicine-­overview_en.­pdf ).
+    regional, and national disease burden es-    21:3465-7.                                    31. Sparrow E, Adetifa I, Chaiyakunapruk
+    timates of acute lower respiratory infec-    16. Muoz FM, Swamy GK, Hickman SP,            N, et al. WHO preferred product charac-
+    tions due to respiratory syncytial virus     et al. Safety and immunogenicity of a re-     teristics for monoclonal antibodies for
+    in children younger than 5 years in 2019:    spiratory syncytial virus fusion (F) pro-     passive immunization against respiratory
+    a systematic analysis. Lancet 2022;399:      tein nanoparticle vaccine in healthy third-   syncytial virus (RSV) disease in infants --
+    2047-64.                                     trimester pregnant women and their            key considerations for global use. Vaccine
+    4. Noble M, Khan RA, Walker B, Bennett       infants. J Infect Dis 2019;220:1802-15.       2022;40:3506-10.
+    E, Gent N. Respiratory syncytial virus-as-   17. Aranda SS, Polack FP. Prevention of       32. Centers for Disease Control and Pre-
+    sociated hospitalisation in children aged    pediatric respiratory syncytial virus lower   vention. Respiratory syncytial virus infec-
+    5years: a scoping review of literature       respiratory tract illness: perspectives for   tion (RSV). October 28, 2022 (https://www
+    from 2009 to 2021. ERJ Open Res 2022;        the next decade. Front Immunol 2019;10:       .­cdc.­gov/­rsv/­clinical/­index.­html#print).
+    8(2):00593-2021.                             1006.                                         33. Esposito S, Abu Raya B, Baraldi E, et al.
+    5. Parikh RC, McLaurin KK, Margulis          18. Mackin DW, Walker SP. The historical      RSV prevention in all infants: which is the
+    AV, et al. Chronologic age at hospitaliza-   aspects of vaccination in pregnancy. Best     most preferable strategy? Front Immunol
+    tion for respiratory syncytial virus among   Pract Res Clin Obstet Gynaecol 2021;76:       2022;13:880368.
+    preterm and term infants in the United       13-22.                                        34. Simões EAF, Forleo-Neto E, Geba GP,
+    States. Infect Dis Ther 2017;6:477-86.       19. Halasa NB, Olson SM, Staat MA, et al.     et al. Suptavumab for the prevention of
+    6. Glezen WP, Paredes A, Allison JE,         Maternal vaccination and risk of hospi-       medically attended respiratory syncytial
+    Taber LH, Frank AL. Risk of respiratory      talization for Covid-19 among infants.        virus infection in preterm infants. Clin
+    syncytial virus infection for infants from   N Engl J Med 2022;387:109-19.                 Infect Dis 2021;73(11):e4400-e4408.
+    low-income families in relationship to       20. Sanofi. Australian product informa-       35. Gunatilaka A, Giles ML. Maternal
+    age, sex, ethnic group, and maternal anti-   tion -- Vaxigrip Tetra (influenza virus       RSV vaccine development. Where to from
+    body level. J Pediatr 1981;98:708-15.        haemagglutinin) suspension for injection.     here? Hum Vaccin Immunother 2021;17:
+    7. Caballero MT, Satav A, Gill CJ, et al.    November 14, 2022 (https://medicines.­org     4542-8.
+    Challenges of assessing community mor-       .­au/­api/­documents/­Vaxigrip_Tetra__        36. Madhi SA, Polack FP, Piedra PA, et al.
+    tality due to respiratory viruses in chil-   PI?format=p­ df).                             Respiratory syncytial virus vaccination
+    dren aged less than 5 years. Clin Infect     21. McLellan JS. Neutralizing epitopes        during pregnancy and effects in infants.
+    Dis 2021;73:Suppl 3:S248-S254.               on the respiratory syncytial virus fusion     N Engl J Med 2020;383:426-39.
+    8. Bardsley M, Morbey RA, Hughes HE,         glycoprotein. Curr Opin Virol 2015;11:        37. Pneumonia Etiology Research for
+    et al. Epidemiology of respiratory syncy-    70-5.                                         Child Health (PERCH) Study Group.
+    tial virus in children younger than 5 years  22. Ngwuta JO, Chen M, Modjarrad K, et al.    Causes of severe pneumonia requiring
+    in England during the COVID-19 pan-          Prefusion F-specific antibodies determine     hospital admission in children without
+    demic, measured by laboratory, clinical,     the magnitude of RSV neutralizing activ-      HIV infection from Africa and Asia: the
+    and syndromic surveillance: a retrospec-     ity in human sera. Sci Transl Med 2015;       PERCH multi-country case-control study.
+    tive observational study. Lancet Infect Dis  7(309):309ra162.                              Lancet 2019;394:757-79.
+    2023;23:56-66.                               23. Schmoele-Thoma B, Zareba AM, Jiang        38. Meissner HC. Viral bronchiolitis in
+    9. Foley DA, Phuong LK, Peplinski J, et al.  Q, et al. Vaccine efficacy in adults in a     children. N Engl J Med 2016;374:62-72.
+    Examining the interseasonal resurgence       respiratory syncytial virus challenge study.  39. Falsey AR, Walsh EE, Scott DA, et al.
+    of respiratory syncytial virus in Western    N Engl J Med 2022;386:2377-86.                Phase 1/2 randomized study of the immu-
+    Australia. Arch Dis Child 2022;107(3):       24. Ghildyal R, Hogg G, Mills J, Meanger      nogenicity, safety, and tolerability of a
+    e7.                                          J. Detection and subgrouping of respira-      respiratory syncytial virus prefusion F
+    10. Wildenbeest JG, Billard MN, Zuurbier     tory syncytial virus directly from naso-      vaccine in adults with concomitant inacti-
+    RP, et al. The burden of respiratory syncy-  pharyngeal aspirates. Clin Microbiol In-      vated influenza vaccine. J Infect Dis 2022;
+    tial virus in healthy term-born infants in   fect 1997;3:120-3.                            225:2056-66.
+    Europe: a prospective birth cohort study.    25. Simões EAF, Center KJ, Tita ATN, et al.   40. Walsh EE, Falsey AR, Scott DA, et al.
+    Lancet Respir Med 2022 November 10           Prefusion F protein-based respiratory         A randomized phase 1/2 study of a respi-
+    (Epub ahead of print).                       syncytial virus immunization in pregnan-      ratory syncytial virus prefusion F vaccine.
+    11. Abu-Raya B, Maertens K, Edwards          cy. N Engl J Med 2022;386:1615-26.            J Infect Dis 2022;225:1357-66.
+    KM, et al. Global perspectives on immu-      26. Walsh EE, Pérez Marc G, Zareba AM,        41. Stein RT, Bont LJ, Zar H, et al. Respi-
+    nization during pregnancy and priorities     et al. Efficacy and safety of a bivalent RSV  ratory syncytial virus hospitalization and
+    for future research and development: an      prefusion F vaccine in older adults. N Engl   mortality: systematic review and meta-
+    international consensus statement. Front     J Med. DOI:10.1056/NEJMoa2213836.             analysis. Pediatr Pulmonol 2017;52:556-69.
+    Immunol 2020;11:1282.                        27. Chan ISF, Bohidar NR. Exact power
+    12. Ochola R, Sande C, Fegan G, et al.                                                     Copyright © 2023 Massachusetts Medical Society.
+    The level and duration of RSV-specific
+
+14                                               n engl j med nejm.org
+
+                                                                 The New England Journal of Medicine
+    Downloaded from nejm.org at UNIVERSITEIT ANTWERPEN on April 11, 2023. For personal use only. No other uses without permission.
+
+                                              Copyright © 2023 Massachusetts Medical Society. All rights reserved.
+
